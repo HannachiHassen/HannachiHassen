@@ -83,9 +83,12 @@ You can click the Preview link to take a look at your changes.
   
 <h2> GitHub Stars Sparklines</h2>
 
-[![GitLab issues open](https://badgen.net/gitlab/open-issues/gitlab-org/gitlab-runner)](https://gitlab.com/gitlab-org/gitlab-runner)
-[![GitLab issues total](https://badgen.net/gitlab/issues/gitlab-org/gitlab-runner)](https://gitlab.com/gitlab-org/gitlab-runner)
-[![GitLab issues closed](https://badgen.net/gitlab/closed-issues/gitlab-org/gitlab-runner)](https://gitlab.com/gitlab-org/gitlab-runner)
+[![GitHub contributors](https://img.shields.io/github/contributors/Naereen/badges.svg)](https://GitHub.com/HannachiHassen/badges/graphs/contributors/)
+[![GitHub issues](https://img.shields.io/github/issues/Naereen/StrapDown.js.svg)](https://GitHub.com/HannachiHassen/StrapDown.js/issues/)
+[![GitHub issues](https://img.shields.io/github/issues/Naereen/StrapDown.js.svg)](https://GitHub.com/HannachiHassen/StrapDown.js/issues/)
+[![GitHub pull-requests](https://img.shields.io/github/issues-pr/Naereen/StrapDown.js.svg)](https://GitHub.com/HannachiHassen/StrapDown.js/pull/)
+[![Only 32 Kb](https://badge-size.herokuapp.com/Naereen/StrapDown.js/master/strapdown.min.js)](https://github.com/HannachiHassen/StrapDown.js/blob/master/strapdown.min.js)
+[![GitHub pull-requests merged](https://badgen.net/github/merged-prs/Naereen/Strapdown.js)](https://github.com/HannachiHassen/StrapDown.js/pulls?q=is%3Amerged)
   
 <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
@@ -113,4 +116,5 @@ You can click the Preview link to take a look at your changes.
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a> 
-                       
+
+[![Hassen's github trophy](https://github-profile-trophy.vercel.app/?username=HannachiHassen&row=1)](https://github.com/ryo-ma/github-profile-trophy)
