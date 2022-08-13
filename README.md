@@ -50,8 +50,8 @@ You can click the Preview link to take a look at your changes.
   <br/> 
  <p align="center"> 
  <a href="https://github.com/anuraghazra/github-readme-stats">
-   <img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=HannachiHassen&show_icons=true&count_private=true&theme=radical" height="192px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HannachiHassen&langs_count=10&show_icons=true&locale=en&layout=compact&theme=radical" alt="7oSkaaa" height="192px"/>
+   <img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=HannachiHassen&show_icons=true&count_private=true&theme=radical" height="192px" style="max-width: 100%; width="48%"/></a>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HannachiHassen&langs_count=10&show_icons=true&locale=en&layout=compact&theme=radical" alt="7oSkaaa" height="192px style="max-width: 100%; width="40%""/>
  <br/>
  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
  </p>
