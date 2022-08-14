@@ -3,15 +3,13 @@
 HannachiHassen/HannachiHassen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
 
-<h1 align="center" dir="auto">
-  Hi folks<g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji>, I'm Hassen Hannachi.</h1>
-  
 <!---
   <a href="https://twitter.com/josnothosay" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="josnothosay" height="30" width="40" style="max-width: 100%;"></a>
   <a href="https://linkedin.com/in/renjujv" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="renjujv" height="30" width="40" style="max-width: 100%;"></a>
   --->
-  <p align="center" dir="auto">
+<p align="center" dir="auto">	
 <a href="https://candida-noronha.web.app/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
 <a href="mailto:candida.noronha18@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 <a href="https://github.com/Candida18"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
@@ -21,6 +19,9 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.youtube.com/channel/UC7V1Gm8V0kRLp_EHB8aDj2A"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>
 
 </p>
+
+<h1 align="center" dir="auto">
+  Hi folks<g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji>, I'm Hassen Hannachi.</h1>
 
 <h2> A QA Enginner </h2>
 
@@ -58,6 +59,7 @@ You can click the Preview link to take a look at your changes.
 ![TestNG](https://img.shields.io/badge/-TestNG-05122A?style=testng&logo=testng)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-05122A?style=flat&logo=mysql)&nbsp;
 ![Oracle](https://img.shields.io/badge/Oracle-05122A?style=flat&logo=oracle)&nbsp;
+![Postman](https://img.shields.io/badge/Postman-05122A?style=flat&logo=postman)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
@@ -67,9 +69,10 @@ You can click the Preview link to take a look at your changes.
 ![Microsoft_PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-05122A?style=flat&logo=microsoft-powerpoint)&nbsp;
 ![Microsoft_Access](https://img.shields.io/badge/Microsoft_Access-05122A?style=flat&logo=microsoft-access)&nbsp;
 ![Firefox](https://img.shields.io/badge/Firefox_Browser-05122A?style=flat&logo=Firefox-Browser)&nbsp;
-![Chrome](https://img.shields.io/badge/Google_chrome-05122A?style=flat&logo=Google_chrome)&nbsp;
-![Microsoft_Edge](https://img.shields.io/badge/Microsoft_Edge-05122A?style=flat&logo=microsoft_edge)&nbsp;
-
+![Chrome](https://img.shields.io/badge/Google_Chrome-05122A?style=flat&logo=Google-Chrome)&nbsp;
+![Microsoft_Edge](https://img.shields.io/badge/Microsoft_Edge-05122A?style=flat&logo=Microsoft-edge)&nbsp;
+![Safari](https://img.shields.io/badge/Safari-05122A?style=flat&logo=Safari)&nbsp;
+	
  </p>
  
  <!--- 
@@ -83,10 +86,7 @@ You can click the Preview link to take a look at your changes.
   
 <h2> GitHub Stars Sparklines</h2>
 	
-<a href="https://github.com/HannachiHassen"><img src="https://komarev.com/ghpvc/?username=HannachiHassen&label=Profile%20views&color=0e75b6&style=flat" alt="bouaskaoun" /></a>	
-	
-[![GitHub contributors](https://komarev.com/ghpvc/?username=HannachiHassen)](https://GitHub.com/HannachiHassen/badges/graphs/contributors/)	
-
+<a href="https://github.com/HannachiHassen"><img src="https://komarev.com/ghpvc/?username=HannachiHassen&label=Profile%20views&color=0e75b6&style=flat" alt="bouaskaoun" /></a>		
 [![GitHub contributors](https://img.shields.io/github/contributors/Naereen/badges.svg)](https://GitHub.com/HannachiHassen/badges/graphs/contributors/)
 [![GitHub issues](https://img.shields.io/github/issues/Naereen/StrapDown.js.svg)](https://GitHub.com/HannachiHassen/StrapDown.js/issues/)
 [![GitHub issues](https://img.shields.io/github/issues/Naereen/StrapDown.js.svg)](https://GitHub.com/HannachiHassen/StrapDown.js/issues/)
@@ -104,7 +104,7 @@ You can click the Preview link to take a look at your changes.
  <p align="center"> 
  <a href="https://github.com/anuraghazra/github-readme-stats">
    <img alt="HannachiHassen's Github Stats" src="https://github-readme-stats.vercel.app/api?username=HannachiHassen&show_icons=true&count_private=true&theme=radical" height="192px" style="max-width: 100%; width="48%"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HannachiHassen&langs_count=10&show_icons=true&locale=en&layout=compact&theme=radical" alt="HannachiHassen" height="192px style="max-width: 100%; width="40%""/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HannachiHassen&langs_count=10&show_icons=true&locale=en&layout=compact&theme=radical" alt="HannachiHassen" height="192px style="max-width: 100%; width="40%"/>
  <br/>
  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
  </p>
@@ -113,12 +113,11 @@ You can click the Preview link to take a look at your changes.
   
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HannachiHassen&theme=radical"  alt="HannachiHassen" /></p>
           
-  
- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HannachiHassen&repo=CRMPro_Automation_Framwork" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HannachiHassen&repo=SQL_BasicTesting" />
 </a> 
 
-[![Hassen's github trophy](https://github-profile-trophy.vercel.app/?username=HannachiHassen&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![Hassen's github trophy](https://github-profile-trophy.vercel.app/?username=HannachiHassen&row=1)](https://github.com/ryo-ma/github-profile-trophy)
