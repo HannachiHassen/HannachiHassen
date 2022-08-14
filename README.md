@@ -4,7 +4,7 @@ HannachiHassen/HannachiHassen is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
-![Github Banner](https://github.com/Hannachi/HannachiHassen/tree/profile/banner.png)
+![Github Banner](https://github.com/HannachiHassen/HannachiHassen/tree/profile/banner.png)
 
 <!--- 
   <a href="https://twitter.com/josnothosay" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="josnothosay" height="30" width="40" style="max-width: 100%;"></a>
