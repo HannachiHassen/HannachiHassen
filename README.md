@@ -82,6 +82,10 @@ You can click the Preview link to take a look at your changes.
   -->
   
 <h2> GitHub Stars Sparklines</h2>
+	
+<a href="https://github.com/HannachiHassen"><img src="https://komarev.com/ghpvc/?username=HannachiHassen&label=Profile%20views&color=0e75b6&style=flat" alt="bouaskaoun" /></a>	
+	
+[![GitHub contributors](https://komarev.com/ghpvc/?username=HannachiHassen)](https://GitHub.com/HannachiHassen/badges/graphs/contributors/)	
 
 [![GitHub contributors](https://img.shields.io/github/contributors/Naereen/badges.svg)](https://GitHub.com/HannachiHassen/badges/graphs/contributors/)
 [![GitHub issues](https://img.shields.io/github/issues/Naereen/StrapDown.js.svg)](https://GitHub.com/HannachiHassen/StrapDown.js/issues/)
