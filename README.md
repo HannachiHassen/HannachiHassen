@@ -3,12 +3,14 @@
 HannachiHassen/HannachiHassen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
 ![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
 
-<!---
+<!--- 
   <a href="https://twitter.com/josnothosay" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="josnothosay" height="30" width="40" style="max-width: 100%;"></a>
   <a href="https://linkedin.com/in/renjujv" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="renjujv" height="30" width="40" style="max-width: 100%;"></a>
   --->
+  
 <p align="center" dir="auto">	
 <a href="https://candida-noronha.web.app/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
 <a href="mailto:candida.noronha18@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
@@ -35,24 +37,25 @@ You can click the Preview link to take a look at your changes.
   
 <p align="center">   
 
-![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows&logoColor=FFA518)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=FFA518)&nbsp;
-![Windows](https://img.shields.io/badge/Windows%20terminal-05122A?style=flat&logo=windows&logoColor=FFA518)&nbsp;
-![Powershell](https://img.shields.io/badge/Powershell-05122A?style=flat&logo=powershell&logoColor=FFA518)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)&nbsp;
-![IntelliJ_IDEA](https://img.shields.io/badge/IntelliJ_IDEA-05122A?style=flat&logo=intellij-idea)&nbsp;
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-05112A?style=flat&logo=visual%20studio)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![NetBeansIDE](https://img.shields.io/badge/apache%20netbeans-05112A?style=flat&logo=apache%20netbeans%20IDE)&nbsp;
-![Atom](https://img.shields.io/badge/Atom-05122A?style=flat&logo=Atom)&nbsp;
-![Notepad](https://img.shields.io/badge/Notepad++-05122A?style=flat&logo=notepad%2B%2B)&nbsp;
-![sublime_text](https://img.shields.io/badge/sublime_text-05122A?style=flat&logo=sublime-text)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Jenkins](https://img.shields.io/badge/Jenkins-05122A?style=flat&logo=jenkins)&nbsp;
-![Jira](https://img.shields.io/badge/Jira-05122A?style=flat&logo=jira)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=FFA518)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-05122A?style=plastic&logo=windows&logoColor=FFA518)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=plastic&logo=linux&logoColor=FFA518)&nbsp;
+![Windows](https://img.shields.io/badge/Windows%20terminal-05122A?style=plastic&logo=windows&logoColor=FFA518)&nbsp;
+![Powershell](https://img.shields.io/badge/Powershell-05122A?style=plastic&logo=powershell&logoColor=FFA518)&nbsp;
+![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=plastic&logo=eclipse-ide&logoColor=2C2255)&nbsp;
+![IntelliJ_IDEA](https://img.shields.io/badge/IntelliJ_IDEA-05122A?style=plastic&logo=intellij-idea)&nbsp;
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-05112A?style=plastic&logo=visual%20studio)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=plastic&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![NetBeansIDE](https://img.shields.io/badge/apache%20netbeans-05112A?style=plastic&logo=apache%20netbeans%20IDE)&nbsp;
+![Atom](https://img.shields.io/badge/Atom-05122A?style=plastic&logo=Atom)&nbsp;
+![Notepad](https://img.shields.io/badge/Notepad++-05122A?style=plastic&logo=notepad%2B%2B)&nbsp;
+![sublime_text](https://img.shields.io/badge/sublime_text-05122A?style=plastic&logo=sublime-text)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=plastic&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=plastic&logo=github)&nbsp;
+![Jenkins](https://img.shields.io/badge/Jenkins-05122A?style=plastic&logo=jenkins)&nbsp;
+![Jira](https://img.shields.io/badge/Jira-05122A?style=plastic&logo=jira)&nbsp;
+![Java](https://img.shields.io/badge/Java-05122A?style=plastic&logo=java)&nbsp;
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=FFA518)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=plastic&logo=javascript)&nbsp;
 ![jQuery](https://img.shields.io/badge/jQuery-05122A?style=flat&logo=jquery&logoColor=00599C)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
@@ -90,6 +93,8 @@ You can click the Preview link to take a look at your changes.
   -->
   
 <h2> GitHub Stars Sparklines</h2>
+
+[![Coverage](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/HannachiHassen/REPOSITORY/BRANCHNAME/.github/badges/jacoco.json)](https://github.com/USERNAME/REPOSITORY/actions/workflows/build.yml)
 
 <!--	
 <a href="https://github.com/HannachiHassen"><img src="https://komarev.com/ghpvc/?username=HannachiHassen&label=Profile%20views&color=0e75b6&style=flat" alt="bouaskaoun" /></a>		
