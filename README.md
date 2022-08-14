@@ -56,30 +56,30 @@ You can click the Preview link to take a look at your changes.
 ![Java](https://img.shields.io/badge/Java-05122A?style=plastic&logo=java)&nbsp;
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=FFA518)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=plastic&logo=javascript)&nbsp;
-![jQuery](https://img.shields.io/badge/jQuery-05122A?style=flat&logo=jquery&logoColor=00599C)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Selenium](https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=selenium&logoColor=092E20)&nbsp;
-![Maven](https://img.shields.io/badge/-Maven-05122A?style=flat&logo=maven)
+![jQuery](https://img.shields.io/badge/jQuery-05122A?style=plastic&logo=jquery&logoColor=00599C)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=plastic&logo=C&logoColor=A8B9CC)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=plastic&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![Selenium](https://img.shields.io/badge/-Selenium-05122A?style=plastic&logo=selenium&logoColor=092E20)&nbsp;
+![Maven](https://img.shields.io/badge/-Maven-05122A?style=plastic&logo=maven)
 ![TestNG](https://img.shields.io/badge/-TestNG-05122A?style=testng&logo=testng)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-05122A?style=flat&logo=mysql)&nbsp;
-![Oracle](https://img.shields.io/badge/Oracle-05122A?style=flat&logo=oracle)&nbsp;
-![Postman](https://img.shields.io/badge/Postman-05122A?style=flat&logo=postman)&nbsp;
-![Apache Maven](https://img.shields.io/badge/Apache%20Maven-05122A?style=flat&logo=Apache%20Maven)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![LaTeX](https://img.shields.io/badge/latex-05122A?style=flat&logo=latex)&nbsp;
-![LibreOffice](https://img.shields.io/badge/LibreOffice-05122A?style=flat&logo=LibreOffice)&nbsp;
-![Microsoft_Office](https://img.shields.io/badge/Microsoft_Office-05122A?style=flat&logo=microsoft-office)&nbsp;
-![Microsoft_Excel](https://img.shields.io/badge/Microsoft_Excel-05122A?style=flat&logo=microsoft-excel)&nbsp;
-![Microsoft_PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-05122A?style=flat&logo=microsoft-powerpoint)&nbsp;
-![Microsoft Visio ](https://img.shields.io/badge/Microsoft_Visio-05122A?style=flat&logo=microsoft-visio)&nbsp;
-![Microsoft_Access](https://img.shields.io/badge/Microsoft_Access-05122A?style=flat&logo=microsoft-access)&nbsp;
-![Firefox](https://img.shields.io/badge/Firefox_Browser-05122A?style=flat&logo=Firefox-Browser)&nbsp;
-![Chrome](https://img.shields.io/badge/Google_Chrome-05122A?style=flat&logo=Google-Chrome)&nbsp;
-![Microsoft_Edge](https://img.shields.io/badge/Microsoft_Edge-05122A?style=flat&logo=Microsoft-edge)&nbsp;
-![Safari](https://img.shields.io/badge/Safari-05122A?style=flat&logo=Safari)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-05122A?style=plastic&logo=mysql)&nbsp;
+![Oracle](https://img.shields.io/badge/Oracle-05122A?style=plastic&logo=oracle)&nbsp;
+![Postman](https://img.shields.io/badge/Postman-05122A?style=plastic&logo=postman)&nbsp;
+![Apache Maven](https://img.shields.io/badge/Apache%20Maven-05122A?style=plastic&logo=Apache%20Maven)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=plastic&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=plastic&logo=CSS3&logoColor=1572B6)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=plastic&logo=adobe-photoshop)&nbsp;
+![LaTeX](https://img.shields.io/badge/latex-05122A?style=plastic&logo=latex)&nbsp;
+![LibreOffice](https://img.shields.io/badge/LibreOffice-05122A?style=plastic&logo=LibreOffice)&nbsp;
+![Microsoft_Office](https://img.shields.io/badge/Microsoft_Office-05122A?style=plastic&logo=microsoft-office)&nbsp;
+![Microsoft_Excel](https://img.shields.io/badge/Microsoft_Excel-05122A?style=plastic&logo=microsoft-excel)&nbsp;
+![Microsoft_PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-05122A?style=plastic&logo=microsoft-powerpoint)&nbsp;
+![Microsoft Visio ](https://img.shields.io/badge/Microsoft_Visio-05122A?style=plastic&logo=microsoft-visio)&nbsp;
+![Microsoft_Access](https://img.shields.io/badge/Microsoft_Access-05122A?style=plastic&logo=microsoft-access)&nbsp;
+![Firefox](https://img.shields.io/badge/Firefox_Browser-05122A?style=plastic&logo=Firefox-Browser)&nbsp;
+![Chrome](https://img.shields.io/badge/Google_Chrome-05122A?style=plastic&logo=Google-Chrome)&nbsp;
+![Microsoft_Edge](https://img.shields.io/badge/Microsoft_Edge-05122A?style=plastic&logo=Microsoft-edge)&nbsp;
+![Safari](https://img.shields.io/badge/Safari-05122A?style=plastic&logo=Safari)&nbsp;
 	
  </p>
  
@@ -97,7 +97,7 @@ You can click the Preview link to take a look at your changes.
 [![Coverage](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/HannachiHassen/REPOSITORY/BRANCHNAME/.github/badges/jacoco.json)](https://github.com/USERNAME/REPOSITORY/actions/workflows/build.yml)
 
 <!--	
-<a href="https://github.com/HannachiHassen"><img src="https://komarev.com/ghpvc/?username=HannachiHassen&label=Profile%20views&color=0e75b6&style=flat" alt="bouaskaoun" /></a>		
+<a href="https://github.com/HannachiHassen"><img src="https://komarev.com/ghpvc/?username=HannachiHassen&label=Profile%20views&color=0e75b6&style=plastic" alt="bouaskaoun" /></a>		
 [![GitHub contributors](https://img.shields.io/github/contributors/Naereen/badges.svg)](https://GitHub.com/HannachiHassen/badges/graphs/contributors/)
 [![GitHub issues](https://img.shields.io/github/issues/Naereen/StrapDown.js.svg)](https://GitHub.com/HannachiHassen/StrapDown.js/issues/)
 [![GitHub issues](https://img.shields.io/github/issues/Naereen/StrapDown.js.svg)](https://GitHub.com/HannachiHassen/StrapDown.js/issues/)
