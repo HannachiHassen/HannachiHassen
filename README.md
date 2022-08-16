@@ -125,10 +125,10 @@ You can click the Preview link to take a look at your changes.
   
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HannachiHassen&theme=radical"  alt="HannachiHassen" /></p>
           
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HannachiHassen&repo=CRMPro_Automation_Framwork" />
+<a href="https://github.com/HannachiHassen/Framework_Project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HannachiHassen&repo=Framework_Project" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/HannachiHassen/SQL_BasicTesting">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HannachiHassen&repo=SQL_BasicTesting" />
 </a> 
 
