@@ -107,7 +107,7 @@ You can click the Preview link to take a look at your changes.
   
 <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/HannachiHassen"><img alt="Hassen Hannachi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=HannachiHassen&custom_title=HassenHannachi's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/HannachiHassen"><img alt="Hassen Hannachi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=HannachiHassen&custom_title=Hassen%20Hannachi's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 <summary><b>💻 GitHub Profile Stats</b></summary>  
