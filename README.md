@@ -22,9 +22,24 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <h1 align="center" dir="auto">
-  Hi folks<g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji>, I'm Hassen Hannachi.</h1>
+  Hi folks<g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji>, I'm Hassen Hannachi.
+</h1>
+  
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=17&pause=1000&multiline=true&width=435&lines=QA+Enginner+%7C+QA+Test+Enginner+%7C+QA+Analyst;Manual++Tester+%7C++Automation+Tester++" alt="Typing SVG" /></a>
 
-<h2> A QA Enginner </h2>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=27F755&width=435&lines=JIRA+%7C+HP+ALM+%7C+Jenkins+%7C+Git+%7C+Github+%7C+Docker;SQL+%7C+XPath+%7C+Maven+%7C+TestNG+%7C+Seleinum+%7C+JAVA++;HTML+%7C+CSS+%7C+Unix+%7C+Windows+%7C+Microsoft+Office+" alt="Typing SVG" /></a>
+</div>
+
+<!--- 
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=50&center=true&vCenter=true&width=800&height=100&lines=Hassen%20%F0%9F%99%8F%3BHannachi%20%F0%9F%99%8F%3BQA%20Automation%20%F0%9F%99%8F%3BEnginner%20%F0%9F%99%8F%3BQA%20Software%20Tester%20%F0%9F%99%8F%3BAssalam%20Alaikum%20%F0%9F%99%8F%3B">
+<br>
+<img src="https://views.whatilearened.today/views/github/hassenhannachi/abhir9.svg?cache=remove">
+<br>
+</div>
+<br>
+-->
 
 - 🌱 I’m currently learning Cucumber, JMeter, Postman...
 - 👀 QA Engineer Passion with Java ecosystem, Testing, JIRA, ALM (QC), REST API, and of course, Security 🔐...
@@ -105,10 +120,12 @@ You can click the Preview link to take a look at your changes.
 [![GitHub pull-requests merged](https://badgen.net/github/merged-prs/Naereen/Strapdown.js)](https://github.com/HannachiHassen/StrapDown.js/pulls?q=is%3Amerged)
 -->
   
-<summary><b>⚡ Recent GitHub Activity</b></summary>
+<summary><b>⚡ Recent GitHub Activity Graph</b></summary>
   <br/>
-   <a href="https://github.com/HannachiHassen"><img alt="Hassen Hannachi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=HannachiHassen&custom_title=Hassen%20Hannachi's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/HannachiHassen"><img alt="Hassen's Activity " src="https://activity-graph.herokuapp.com/graph?username=HannachiHassen&custom_title=Hassen%20Hannachi's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
+	
+[![Hassen Hannachi's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=HannachiHassen&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)	
 
 <summary><b>💻 GitHub Profile Stats</b></summary>  
   <br/> 
