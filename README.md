@@ -121,9 +121,7 @@ You can click the Preview link to take a look at your changes.
 -->
   
 <summary><b>⚡ Recent GitHub Activity Graph</b></summary>
-  <br/>
-   <a href="https://github.com/HannachiHassen"><img alt="Hassen's Activity " src="https://activity-graph.herokuapp.com/graph?username=HannachiHassen&custom_title=Hassen%20Hannachi's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
+  <br>
 	
 [![Hassen Hannachi's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=HannachiHassen&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)	
 
