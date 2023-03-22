@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://candida-noronha.web.app/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
 <a href="mailto:candida.noronha18@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 <a href="https://github.com/Candida18"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-<a href="https://linkedin.com/in/candida-ruth-noronha-b019101ab"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/hassenhannachi/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 <a href="https://www.facebook.com/candida.noronha.77"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
 <a href="https://instagram.com/candyyyy__18"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 <a href="https://www.youtube.com/channel/UC7V1Gm8V0kRLp_EHB8aDj2A"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>
@@ -71,15 +71,17 @@ You can click the Preview link to take a look at your changes.
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=FFA518)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=plastic&logo=javascript)&nbsp;
 ![jQuery](https://img.shields.io/badge/jQuery-05122A?style=plastic&logo=jquery&logoColor=00599C)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=plastic&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=plastic&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![Selenium](https://img.shields.io/badge/-Selenium-05122A?style=plastic&logo=selenium&logoColor=092E20)&nbsp;
+![Selenium Grid](https://img.shields.io/badge/-Selenium-Grid05122A?style=plastic&logo=selenium&logoColor=092E20)&nbsp;
 ![Maven](https://img.shields.io/badge/-Maven-05122A?style=plastic&logo=maven)
 ![TestNG](https://img.shields.io/badge/-TestNG-05122A?style=testng&logo=testng)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=plastic&logo=docker&logoColor=092E20)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-05122A?style=plastic&logo=mysql)&nbsp;
 ![Oracle](https://img.shields.io/badge/Oracle-05122A?style=plastic&logo=oracle)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-05122A?style=plastic&logo=postman)&nbsp;
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-05122A?style=plastic&logo=Apache%20Maven)&nbsp;
+![JSON](https://img.shields.io/badge/-JSON-05122A?style=plastic&logo=json&logoColor=092E20)&nbsp;
+![XML](https://img.shields.io/badge/-XML-05122A?style=plastic&logo=xml&logoColor=092E20)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=plastic&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=plastic&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=plastic&logo=adobe-photoshop)&nbsp;
@@ -94,7 +96,8 @@ You can click the Preview link to take a look at your changes.
 ![Chrome](https://img.shields.io/badge/Google_Chrome-05122A?style=plastic&logo=Google-Chrome)&nbsp;
 ![Microsoft_Edge](https://img.shields.io/badge/Microsoft_Edge-05122A?style=plastic&logo=Microsoft-edge)&nbsp;
 ![Safari](https://img.shields.io/badge/Safari-05122A?style=plastic&logo=Safari)&nbsp;
-	
+<!--![C](https://img.shields.io/badge/-C-05122A?style=plastic&logo=C&logoColor=A8B9CC)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=plastic&logo=C%2B%2B&logoColor=00599C)&nbsp;-->	
  </p>
  
  <!--- 
