@@ -72,7 +72,7 @@ You can click the Preview link to take a look at your changes.
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=plastic&logo=javascript)&nbsp;
 ![jQuery](https://img.shields.io/badge/jQuery-05122A?style=plastic&logo=jquery&logoColor=00599C)&nbsp;
 ![Selenium](https://img.shields.io/badge/-Selenium-05122A?style=plastic&logo=selenium&logoColor=092E20)&nbsp;
-![Selenium Grid](https://img.shields.io/badge/-Selenium-Grid05122A?style=plastic&logo=selenium&logoColor=092E20)&nbsp;
+![Selenium Grid](https://img.shields.io/badge/-Selenium-Grid?style=plastic&logo=selenium&logoColor=092E20)&nbsp;
 ![Maven](https://img.shields.io/badge/-Maven-05122A?style=plastic&logo=maven)
 ![TestNG](https://img.shields.io/badge/-TestNG-05122A?style=testng&logo=testng)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=plastic&logo=docker&logoColor=092E20)&nbsp;
@@ -80,6 +80,8 @@ You can click the Preview link to take a look at your changes.
 ![Oracle](https://img.shields.io/badge/Oracle-05122A?style=plastic&logo=oracle)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-05122A?style=plastic&logo=postman)&nbsp;
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-05122A?style=plastic&logo=Apache%20Maven)&nbsp;
+![SOAPUI](https://img.shields.io/badge/SoapUI-05122A?style=plastic&logo=SoapUI)&nbsp;
+![RestApi](https://img.shields.io/badge/RestApi-05122A?style=plastic&logo=RestApi)&nbsp;
 ![JSON](https://img.shields.io/badge/-JSON-05122A?style=plastic&logo=json&logoColor=092E20)&nbsp;
 ![XML](https://img.shields.io/badge/-XML-05122A?style=plastic&logo=xml&logoColor=092E20)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=plastic&logo=HTML5)&nbsp;
@@ -99,7 +101,7 @@ You can click the Preview link to take a look at your changes.
 <!--![C](https://img.shields.io/badge/-C-05122A?style=plastic&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=plastic&logo=C%2B%2B&logoColor=00599C)&nbsp;-->	
  </p>
- 
+	
  <!--- 
 [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com)
 [![git](https://badgen.net/badge/icon/git?icon=git&label)](https://git-scm.com)
@@ -112,16 +114,6 @@ You can click the Preview link to take a look at your changes.
 <h2> GitHub Stars Sparklines</h2>
 
 [![Coverage](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/HannachiHassen/REPOSITORY/BRANCHNAME/.github/badges/jacoco.json)](https://github.com/USERNAME/REPOSITORY/actions/workflows/build.yml)
-
-<!--	
-<a href="https://github.com/HannachiHassen"><img src="https://komarev.com/ghpvc/?username=HannachiHassen&label=Profile%20views&color=0e75b6&style=plastic" alt="bouaskaoun" /></a>		
-[![GitHub contributors](https://img.shields.io/github/contributors/Naereen/badges.svg)](https://GitHub.com/HannachiHassen/badges/graphs/contributors/)
-[![GitHub issues](https://img.shields.io/github/issues/Naereen/StrapDown.js.svg)](https://GitHub.com/HannachiHassen/StrapDown.js/issues/)
-[![GitHub issues](https://img.shields.io/github/issues/Naereen/StrapDown.js.svg)](https://GitHub.com/HannachiHassen/StrapDown.js/issues/)
-[![GitHub pull-requests](https://img.shields.io/github/issues-pr/Naereen/StrapDown.js.svg)](https://GitHub.com/HannachiHassen/StrapDown.js/pull/)
-[![Only 32 Kb](https://badge-size.herokuapp.com/Naereen/StrapDown.js/master/strapdown.min.js)](https://github.com/HannachiHassen/StrapDown.js/blob/master/strapdown.min.js)
-[![GitHub pull-requests merged](https://badgen.net/github/merged-prs/Naereen/Strapdown.js)](https://github.com/HannachiHassen/StrapDown.js/pulls?q=is%3Amerged)
--->
   
 <summary><b>⚡ Recent GitHub Activity Graph</b></summary>
   <br>
