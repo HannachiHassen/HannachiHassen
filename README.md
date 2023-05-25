@@ -40,11 +40,10 @@ You can click the Preview link to take a look at your changes.
 </div>
 <br>
 -->
-
-- 🌱 I’m currently learning Cucumber, JMeter, Postman...
 - 👀 QA Engineer Passion with Java ecosystem, Testing, JIRA, ALM (QC), REST API, and of course, Security 🔐...
 - 😀 I'm focused on Helping the Java community
 - 💞️ I’m looking to collaborate on Automation testing (Java & Selenium)...
+- 🌱 I’m currently learning Cucumber, JMeter, Postman...
 - 📫 How to reach me <strong> <a herf="mailto:hannachihassen07@gmail.com">hannachihassen07@gmail.com</a>
   
 <h2>Tech stack</h2>
@@ -68,11 +67,9 @@ You can click the Preview link to take a look at your changes.
 ![Jenkins](https://img.shields.io/badge/Jenkins-05122A?style=plastic&logo=jenkins)&nbsp;
 ![Jira](https://img.shields.io/badge/Jira-05122A?style=plastic&logo=jira)&nbsp;
 ![Java](https://img.shields.io/badge/Java-05122A?style=plastic&logo=java)&nbsp;
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=FFA518)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=plastic&logo=javascript)&nbsp;
 ![jQuery](https://img.shields.io/badge/jQuery-05122A?style=plastic&logo=jquery&logoColor=00599C)&nbsp;
 ![Selenium](https://img.shields.io/badge/-Selenium-05122A?style=plastic&logo=selenium&logoColor=092E20)&nbsp;
-![Selenium Grid](https://img.shields.io/badge/-Selenium-Grid?style=plastic&logo=selenium&logoColor=092E20)&nbsp;
 ![Maven](https://img.shields.io/badge/-Maven-05122A?style=plastic&logo=maven)
 ![TestNG](https://img.shields.io/badge/-TestNG-05122A?style=testng&logo=testng)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=plastic&logo=docker&logoColor=092E20)&nbsp;
@@ -99,7 +96,9 @@ You can click the Preview link to take a look at your changes.
 ![Microsoft_Edge](https://img.shields.io/badge/Microsoft_Edge-05122A?style=plastic&logo=Microsoft-edge)&nbsp;
 ![Safari](https://img.shields.io/badge/Safari-05122A?style=plastic&logo=Safari)&nbsp;
 <!--![C](https://img.shields.io/badge/-C-05122A?style=plastic&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=plastic&logo=C%2B%2B&logoColor=00599C)&nbsp;-->	
+![C++](https://img.shields.io/badge/-C++-05122A?style=plastic&logo=C%2B%2B&logoColor=00599C)&nbsp;	
+![Selenium Grid](https://img.shields.io/badge/-Selenium-Grid?style=plastic&logo=selenium&logoColor=092E20)&nbsp;
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=FFA518)&nbsp;-->
  </p>
 	
  <!--- 
@@ -113,13 +112,13 @@ You can click the Preview link to take a look at your changes.
   
 <h2> GitHub Stars Sparklines</h2>
 
-[![Coverage](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/HannachiHassen/REPOSITORY/BRANCHNAME/.github/badges/jacoco.json)](https://github.com/USERNAME/REPOSITORY/actions/workflows/build.yml)
+[![Coverage](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/HannachiHassen/REPOSITORY/BRANCHNAME/.github/badges/jacoco.json)](https://github.com/HannachiHassen/REPOSITORY/actions/workflows/build.yml)
   
 <summary><b>⚡ Recent GitHub Activity Graph</b></summary>
   <br>
 	
-[![Hassen Hannachi's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=HannachiHassen&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)	
-
+[![HannachiHassen's Activity Github Graph](https://github-readme-activity-graph.vercel.app/graph?username=HannachiHassen&theme=react-dark)](https://github.com/HannachiHassen/github-readme-activity-graph)
+	
 <summary><b>💻 GitHub Profile Stats</b></summary>  
   <br/> 
  <p align="center"> 
@@ -140,5 +139,11 @@ You can click the Preview link to take a look at your changes.
 <a href="https://github.com/HannachiHassen/SQL_BasicTesting">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HannachiHassen&repo=SQL_BasicTesting" />
 </a> 
+<a href="https://github.com/HannachiHassen/ExtentReport-Cucumber-Adapter">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HannachiHassen&repo=ExtentReport-Cucumber-Adapter" />
+</a>
+<a "https://github.com/HannachiHassen/Cucumber-JUnit-BDD">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HannachiHassen&repo=Cucumber-JUnit-BDD" />
+</a>     
 
 <!-- [![Hassen's github trophy](https://github-profile-trophy.vercel.app/?username=HannachiHassen&row=1)](https://github.com/ryo-ma/github-profile-trophy)
