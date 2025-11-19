@@ -11,13 +11,14 @@ You can click the Preview link to take a look at your changes.
   --->
   
 <p align="center" dir="auto">	
-<a href="https://candida-noronha.web.app/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
+<!-- <a href="https://candida-noronha.web.app/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a> -->
+<a href="https://medium.com/@hassen-hannachi"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
 <a href="mailto:hannachihassen07@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 <a href="https://github.com/HannachiHassen"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 <a href="https://www.linkedin.com/in/hassenhannachi/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-<a href="https://www.facebook.com/candida.noronha.77"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
+<!-- <a href="https://www.facebook.com/candida.noronha.77"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
 <a href="https://instagram.com/candyyyy__18"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-<a href="https://www.youtube.com/channel/UC7V1Gm8V0kRLp_EHB8aDj2A"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>
+<a href="https://www.youtube.com/channel/UC7V1Gm8V0kRLp_EHB8aDj2A"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a> -->
 
 </p>
 <!--- 
@@ -43,7 +44,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi, I'm <strong>Hassen Hannachi</strong> 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Cybersecurity+Apprentice;SOC+Analyst+in+Training;AWS+Cloud+Practitioner;CCNA+Certified;QA+Engineer+Background;Always+Learning+%26+Building" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Cybersecurity+Apprentice;SOC+Analyst+in+Training;AWS+Cloud+Practitioner;Cisco+Certified+Network+Associate;QA+Engineer+Background;Always+Learning+%26+Building" />
 </p>
 
 ## 🚀 About Me  
@@ -113,7 +114,7 @@ My hybrid background combines **Security Operations**, **Threat Detection**, **C
 👉 **[Analyzing HTTP Log Files Using Splunk SIEM](https://medium.com/@hassen-hannachi/analyzing-http-log-files-using-splunk-siem-aabe342e1614)**
 
 ---
-
+<!--
 ## 📫 Contact Me
 
 <p>
@@ -122,7 +123,7 @@ My hybrid background combines **Security Operations**, **Threat Detection**, **C
 </p>
 
 ---
-
+-->
 ## ✨ Thanks for visiting!
 If you like my work, consider ⭐ starring my repos or following for more cybersecurity content.
 
@@ -218,18 +219,19 @@ If you like my work, consider ⭐ starring my repos or following for more cybers
   <img src="https://komarev.com/ghpvc/?username=HannachiHassen&label=Profile+Views&color=blue&style=flat" />
 </p>
           
+<a href="https://github.com/HannachiHassen/Security-Sys0-06-Labs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HannachiHassen&repo=Security-Sys0-06-Labs" />
+</a>   
+<a href="https://github.com/HannachiHassen/Splunk-Projects-Beginners">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HannachiHassen&repo=Splunk-Projects-Beginners" />
+</a>  
 <a href="https://github.com/HannachiHassen/Framework_Project">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HannachiHassen&repo=Framework_Project" />
 </a>
 <a href="https://github.com/HannachiHassen/SQL_BasicTesting">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HannachiHassen&repo=SQL_BasicTesting" />
 </a> 
-<a href="https://github.com/HannachiHassen/ExtentReport-Cucumber-Adapter">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HannachiHassen&repo=ExtentReport-Cucumber-Adapter" />
-</a>
-<a href="https://github.com/HannachiHassen/Cucumber-JUnit-BDD">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HannachiHassen&repo=Cucumber-JUnit-BDD" />
-</a>     
+
 <!-- [![Hassen's github trophy](https://github-profile-trophy.vercel.app/?username=HannachiHassen&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 
