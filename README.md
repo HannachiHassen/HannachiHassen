@@ -20,14 +20,14 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.youtube.com/channel/UC7V1Gm8V0kRLp_EHB8aDj2A"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>
 
 </p>
-
+<!--- 
 <h1 align="center" dir="auto">
   Hi folks<g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji>, I'm Hassen Hannachi.
 </h1>
-  
+<!---   
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=17&pause=1000&multiline=true&width=435&lines=QA+Enginner+%7C+QA+Test+Enginner+%7C+QA+Analyst;Manual++Tester+%7C++Automation+Tester++" alt="Typing SVG" /></a>
-
+<!--- 
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=27F755&width=435&lines=JIRA+%7C+HP+ALM+%7C+Jenkins+%7C+Git+%7C+Github+%7C+Docker;SQL+%7C+XPath+%7C+Maven+%7C+TestNG+%7C+Seleinum+%7C+JAVA++;HTML+%7C+CSS+%7C+Unix+%7C+Windows+%7C+Microsoft+Office+" alt="Typing SVG" /></a>
 </div>
 
@@ -40,13 +40,83 @@ You can click the Preview link to take a look at your changes.
 </div>
 <br>
 -->
-- 👀 QA Engineer Passion with Java ecosystem, Testing, JIRA, ALM (QC), and Security 🔐...
-- 😀 I'm focused on Helping the Java community
-- 🔭 I’m currently working on Java, Selenium, TestNG, Jenkins, Git,...
-- 🌱 I’m currently learning Docker, Selenoid, JMeter, BlazeMeter, Katalon
-- 👯 I’m looking to collaborate on Automation testing (Java & Selenium), Cucumber, Postman,...
-- 📫 How to reach me: <strong> <a herf="mailto:hannachihassen07@gmail.com">hannachihassen07@gmail.com</a>
-  
+<h1 align="center">Hi, I'm <strong>Hassen Hannachi</strong> 👋</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Cybersecurity+Apprentice;SOC+Analyst+in+Training;AWS+Cloud+Practitioner;CCNA+Certified;QA+Engineer+Background;Always+Learning+%26+Building" />
+</p>
+
+## 🚀 About Me  
+I’m a **Cybersecurity Apprentice, SOC Analyst in training, and AWS Cloud Practitioner** with a strong foundation in **networking, cloud, and quality assurance**.  
+My hybrid background combines **Security Operations**, **Threat Detection**, **Cloud Fundamentals**, **QA Testing**, and **Automation**, giving me a wide-angle approach to security and system reliability.
+
+🔐 Currently advancing through:  
+- **ISC2 Certified in Cybersecurity (CC)** – *studying*  
+- **CompTIA Security+** – *studying*  
+- **CompTIA CySA+** – *studying*  
+
+🌐 I also create cybersecurity articles & tutorials on **Medium**.
+
+---
+
+## 🎓 Certifications & In-Progress Badges
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/CCNA-Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/ISC2%20CC-Studying-6CAB45?style=for-the-badge&logo=ISC2&logoColor=white" />
+  <img src="https://img.shields.io/badge/Security%2B-Studying-E61F2D?style=for-the-badge&logo=comptia&logoColor=white" />
+  <img src="https://img.shields.io/badge/CySA%2B-Studying-326CE5?style=for-the-badge&logo=comptia&logoColor=white" />
+</p>
+
+---
+
+## 🛡️ Cybersecurity Skills
+
+#### 🔍 **SOC Analyst Skills**
+- SIEM Monitoring & Alert Triage  
+- Log Analysis (Linux, Sysmon, Windows Event Logs)  
+- MITRE ATT&CK Mapping  
+- Threat Hunting (Splunk, Wazuh, ELK)  
+- Incident Response Fundamentals  
+- Packet Analysis (Wireshark)  
+- Network Security + Firewalls  
+- Endpoint & Malware Investigation  
+
+#### ☁️ **Cloud & Networking**
+- AWS IAM, S3, EC2, Security Groups  
+- CCNA-level Networking  
+- TCP/IP, Subnetting, VLANs, Routing  
+- VPN & Zero Trust Concepts  
+
+---
+
+## 🧪 Quality Assurance (QA) Skills  
+- Functional Testing  
+- Regression & UAT  
+- Test Case Development  
+- Bug Tracking (JIRA)  
+- API testing (Postman)  
+- Automation Fundamentals (Selenium/Java)
+
+## 📝 Latest from My Medium Blog
+👉 **[Analyzing HTTP Log Files Using Splunk SIEM](https://medium.com/@hassen-hannachi/analyzing-http-log-files-using-splunk-siem-aabe342e1614)**
+
+---
+
+## 📫 Contact Me
+
+<p>
+  📧 **Email:** <a href="mailto:hannachihassen07@gmail.com">hannachihassen07@gmail.com</a>  
+  ✍️ **Medium Portfolio:** https://medium.com/@hassen-hannachi  
+</p>
+
+---
+
+## ✨ Thanks for visiting!
+If you like my work, consider ⭐ starring my repos or following for more cybersecurity content.
+
+<!---   
 <h2>Tech stack</h2>
   
 <p align="center">   
@@ -113,10 +183,8 @@ You can click the Preview link to take a look at your changes.
 [![Jira](https://badgen.net/badge/icon/jira?icon=jira&label)](https://https://jira.com/)
 [![Windows](https://badgen.net/badge/icon/windows?icon=windows&label)](https://microsoft.com/windows/)
   -->
-  
-<h2> GitHub Stars Sparklines</h2>
 
-[![Coverage](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/HannachiHassen/REPOSITORY/BRANCHNAME/.github/badges/jacoco.json)](https://github.com/HannachiHassen/REPOSITORY/actions/workflows/build.yml)
+## 📊 GitHub Analytics  
   
 <summary><b>⚡ Recent GitHub Activity Graph</b></summary>
   <br>
@@ -136,6 +204,9 @@ You can click the Preview link to take a look at your changes.
  <summary><b>🔥 Streak Stats</b></summary>
   
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HannachiHassen&theme=radical"  alt="HannachiHassen" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HannachiHassen&label=Profile+Views&color=blue&style=flat" />
+</p>
           
 <a href="https://github.com/HannachiHassen/Framework_Project">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HannachiHassen&repo=Framework_Project" />
@@ -149,5 +220,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://github.com/HannachiHassen/Cucumber-JUnit-BDD">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HannachiHassen&repo=Cucumber-JUnit-BDD" />
 </a>     
-
 <!-- [![Hassen's github trophy](https://github-profile-trophy.vercel.app/?username=HannachiHassen&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
