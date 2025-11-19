@@ -51,7 +51,9 @@ I’m a **Cybersecurity Apprentice, SOC Analyst in training, and AWS Cloud Pract
 My hybrid background combines **Security Operations**, **Threat Detection**, **Cloud Fundamentals**, **QA Testing**, and **Automation**, giving me a wide-angle approach to security and system reliability.
 
 🔐 Currently advancing through:  
-- **ISC2 Certified in Cybersecurity (CC)** – *studying*  
+- **ISC2 Certified in Cybersecurity (CC)** – *studying*
+- **Microsoft SC-900** – *studying*
+- **CompTIA Network+** – *studying* 
 - **CompTIA Security+** – *studying*  
 - **CompTIA CySA+** – *studying*  
 
@@ -98,6 +100,14 @@ My hybrid background combines **Security Operations**, **Threat Detection**, **C
 - Bug Tracking (JIRA)  
 - API testing (Postman)  
 - Automation Fundamentals (Selenium/Java)
+
+## 🧰 Tools & Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,git,github,docker,aws,bash,postman,selenium,mysql,vscode,eclipse,jenkins,java,windows,css,html,latex" />
+</p>
+
+---
 
 ## 📝 Latest from My Medium Blog
 👉 **[Analyzing HTTP Log Files Using Splunk SIEM](https://medium.com/@hassen-hannachi/analyzing-http-log-files-using-splunk-siem-aabe342e1614)**
