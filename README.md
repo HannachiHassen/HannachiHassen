@@ -52,7 +52,7 @@ I’m a **Cybersecurity Apprentice, SOC Analyst in training, and AWS Cloud Pract
 My hybrid background combines **Security Operations**, **Threat Detection**, **Cloud Fundamentals**, **QA Testing**, and **Automation**, giving me a wide-angle approach to security and system reliability.
 
 🔐 Currently advancing through:  
-- **ISC2 Certified in Cybersecurity (CC)** – *studying*
+- **ISC2 (CC)** – *studying*
 - **Microsoft SC-900** – *studying*
 - **CompTIA Network+** – *studying* 
 - **CompTIA Security+** – *studying*  
@@ -222,9 +222,7 @@ If you like my work, consider ⭐ starring my repos or following for more cybers
 <a href="https://github.com/HannachiHassen/Security-Sys0-06-Labs">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HannachiHassen&repo=Security-Sys0-06-Labs" />
 </a>   
-<a href="https://github.com/HannachiHassen/Splunk-Projects-Beginners">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HannachiHassen&repo=Splunk-Projects-Beginners" />
-</a>  
+
 <a href="https://github.com/HannachiHassen/Framework_Project">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HannachiHassen&repo=Framework_Project" />
 </a>
