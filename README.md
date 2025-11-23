@@ -196,7 +196,10 @@ If you like my work, consider ⭐ starring my repos or following for more cybers
   -->
 
 ## 📊 GitHub Analytics  
-  
+  <p align="center">
+   <img src="https://komarev.com/ghpvc/?username=HannachiHassen&label=Profile+Views&color=blue&style=flat" />
+  </p>
+
 <summary><b>⚡ Recent GitHub Activity Graph</b></summary>
   <br>
 	
@@ -215,14 +218,14 @@ If you like my work, consider ⭐ starring my repos or following for more cybers
  <summary><b>🔥 Streak Stats</b></summary>
   
  <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HannachiHassen&theme=radical"  alt="HannachiHassen" /></p> 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HannachiHassen&label=Profile+Views&color=blue&style=flat" />
-</p>
           
+<a href="https://github.com/HannachiHassen/Splunk-Projects-Beginners">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HannachiHassen&repo=Splunk-Projects-Beginners" />
+</a> 
 <a href="https://github.com/HannachiHassen/Security-Sys0-06-Labs">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HannachiHassen&repo=Security-Sys0-06-Labs" />
 </a>   
-
+ 
 <a href="https://github.com/HannachiHassen/Framework_Project">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HannachiHassen&repo=Framework_Project" />
 </a>
