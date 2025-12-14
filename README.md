@@ -111,6 +111,8 @@ My hybrid background combines **Security Operations**, **Threat Detection**, **C
 ---
 
 ## 📝 Latest from My Medium Blog
+👉 **[Analyzing FTP Log Files Using Splunk SIEM](https://medium.com/@hassen-hannachi/analyzing-ftp-log-files-using-splunk-siem-02cf7abda9cf)**
+👉 **[Analyzing SSH Log Files Using Splunk SIEM](https://medium.com/@hassen-hannachi/analyzing-ssh-log-files-using-splunk-siem-73d3e29db8d3)**
 👉 **[Analyzing HTTP Log Files Using Splunk SIEM](https://medium.com/@hassen-hannachi/analyzing-http-log-files-using-splunk-siem-aabe342e1614)**
 
 ---
