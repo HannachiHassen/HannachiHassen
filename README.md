@@ -52,11 +52,11 @@ I’m a **Cybersecurity Apprentice, SOC Analyst in training, and AWS Cloud Pract
 My hybrid background combines **Security Operations**, **Threat Detection**, **Cloud Fundamentals**, **QA Testing**, and **Automation**, giving me a wide-angle approach to security and system reliability.
 
 🔐 Currently advancing through:  
-- **ISC2 (CC)** – *studying*
-- **Microsoft SC-900** – *studying*
 - **CompTIA Network+** – *studying* 
-- **CompTIA Security+** – *studying*  
-- **CompTIA CySA+** – *studying*  
+- **CompTIA Security+** – *studying*
+- **Microsoft SC-900** – *studying*
+- **ISC2 (CC)** – *planned*  
+- **CompTIA CySA+** – *planned*  
 
 🌐 I also create cybersecurity articles & tutorials on **Medium**.
 
