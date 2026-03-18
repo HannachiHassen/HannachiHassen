@@ -157,7 +157,7 @@ Target Role:    Tier II SOC Analyst / Threat Analyst
 ## 🎯 Currently Working On
 
 - 🔬 **Expanding SOC labs** — building detection rules and hunting playbooks in Wazuh & Splunk
-- 📚 **Security+ & Network+** — targeting certification completion in 2025
+- 📚 **Security+ & Network+** — targeting certification completion in 2026
 - ✍️ **Medium blog** — publishing hands-on SIEM walkthroughs and SOC methodology write-ups
 - 🧠 **CyberDefenders & TryHackMe** — consistent blue team practice
 
