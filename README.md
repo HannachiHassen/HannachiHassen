@@ -27,7 +27,6 @@ That combination isn't common — and it's my edge. I bring **structured, test-d
 ```
 Current Focus:  SOC Operations · Threat Detection · Incident Response · SIEM Analysis
 Target Role:    Tier II SOC Analyst / Threat Analyst
-Location:       Philadelphia, PA  |  US Citizen
 ```
 
 ---
@@ -71,36 +70,9 @@ Location:       Philadelphia, PA  |  US Citizen
 | ✅ Completed | AWS Cloud Practitioner |
 | ✅ Completed | Cisco CCNA |
 | ✅ Completed | Cisco CCENT |
-| ✅ Completed | ISC2 CC – Certified in Cybersecurity |
 | 📚 In Progress | CompTIA Security+ (SY0-701) |
 | 📚 In Progress | CompTIA Network+ (N10-009) |
 | 📚 In Progress | Microsoft SC-900 |
-
----
-
-## 💼 Experience Snapshot
-
-```
-SOC Analyst                    Each1Teach1              Apr 2025 – Present
-  → SIEM triage (Wazuh + Splunk), incident response, MITRE ATT&CK mapping
-  → NIST SP 800-53 / ISO 27001 compliance, JIRA incident management
-
-Cybersecurity Support Tech     Each1Teach1              Mar 2024 – Apr 2025
-  → AWS (IAM, EC2, S3), Wazuh, NTOPNG across VM environments
-  → Incident logging, vulnerability remediation, security documentation
-
-QA Analyst                     Travelers                Nov 2021 – Aug 2023
-  → 200+ defects identified via JIRA, multi-tier enterprise testing
-  → SQL backend validation, security-aware QA, UAT
-
-QA Test Engineer               PNC Bank                 Aug 2019 – Oct 2021
-  → 40% increase in test coverage, performance & regression testing
-  → Security-aware QA, financial transaction validation
-
-Software Tester                UnitedHealth Group       Feb 2017 – Jul 2019
-  → Large-scale health records validation (HIPAA environment)
-  → Functional/regression testing, root cause analysis
-```
 
 ---
 
