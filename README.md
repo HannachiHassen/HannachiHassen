@@ -20,7 +20,7 @@
 
 ## 👋 About Me
 
-I'm a **SOC Analyst** with **1+ year of hands-on security operations experience**, backed by **4+ years as a QA Engineer** at enterprise companies including PNC Bank, Travelers, and UnitedHealth Group.
+I'm a **SOC Analyst** with **1+ year of hands-on security operations experience**, backed by **4+ years as a QA Engineer**
 
 That combination isn't common — and it's my edge. I bring **structured, test-driven thinking** to every alert I triage, every log I analyze, and every incident I document. My QA background means I approach threat analysis the same way I approached defect detection: methodically, with a sharp instinct for finding what others miss.
 
