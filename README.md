@@ -1,241 +1,200 @@
-<!---
-HannachiHassen/HannachiHassen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- ============================================================
+     Hassen Hannachi — GitHub Profile README
+     SOC Analyst | Security Operations | QA Engineering Background
+     ============================================================ -->
 
-![Github Banner](https://github.com/HannachiHassen/HannachiHassen/blob/profile/banner.png)
-
-<!--- 
-  <a href="https://twitter.com/josnothosay" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="josnothosay" height="30" width="40" style="max-width: 100%;"></a>
-  <a href="https://linkedin.com/in/renjujv" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="renjujv" height="30" width="40" style="max-width: 100%;"></a>
-  --->
-  
-<p align="center" dir="auto">	
-<!-- <a href="https://candida-noronha.web.app/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a> -->
-<a href="https://medium.com/@hassen-hannachi"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
-<a href="mailto:hannachihassen07@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-<a href="https://github.com/HannachiHassen"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/hassenhannachi/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-<!-- <a href="https://www.facebook.com/candida.noronha.77"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
-<a href="https://instagram.com/candyyyy__18"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-<a href="https://www.youtube.com/channel/UC7V1Gm8V0kRLp_EHB8aDj2A"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a> -->
-
-</p>
-<!--- 
-<h1 align="center" dir="auto">
-  Hi folks<g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji>, I'm Hassen Hannachi.
-</h1>
-<!---   
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=17&pause=1000&multiline=true&width=435&lines=QA+Enginner+%7C+QA+Test+Enginner+%7C+QA+Analyst;Manual++Tester+%7C++Automation+Tester++" alt="Typing SVG" /></a>
-<!--- 
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=27F755&width=435&lines=JIRA+%7C+HP+ALM+%7C+Jenkins+%7C+Git+%7C+Github+%7C+Docker;SQL+%7C+XPath+%7C+Maven+%7C+TestNG+%7C+Seleinum+%7C+JAVA++;HTML+%7C+CSS+%7C+Unix+%7C+Windows+%7C+Microsoft+Office+" alt="Typing SVG" /></a>
+
+# 🛡️ Hassen Hannachi
+
+### SOC Analyst · Security Operations · AWS Certified · CCNA
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-hassenhannachi-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hassenhannachi/)
+[![Medium](https://img.shields.io/badge/Medium-Blog-000000?style=flat-square&logo=medium&logoColor=white)](https://hassen-hannachi.medium.com/)
+[![Gmail](https://img.shields.io/badge/Email-hannachihassen07@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hannachihassen07@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-HannachiHassen-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/HannachiHassen)
+
 </div>
 
-<!--- 
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=50&center=true&vCenter=true&width=800&height=100&lines=Hassen%20%F0%9F%99%8F%3BHannachi%20%F0%9F%99%8F%3BQA%20Automation%20%F0%9F%99%8F%3BEnginner%20%F0%9F%99%8F%3BQA%20Software%20Tester%20%F0%9F%99%8F%3BAssalam%20Alaikum%20%F0%9F%99%8F%3B">
-<br>
-<img src="https://views.whatilearened.today/views/github/hassenhannachi/abhir9.svg?cache=remove">
-<br>
-</div>
-<br>
--->
-<h1 align="center">Hi, I'm <strong>Hassen Hannachi</strong> 👋</h1>
+---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Cybersecurity+Apprentice;SOC+Analyst+in+Training;AWS+Cloud+Practitioner;Cisco+Certified+Network+Associate;QA+Engineer+Background;Always+Learning+%26+Building" />
-</p>
+## 👋 About Me
 
-## 🚀 About Me  
-I’m a **Cybersecurity Apprentice, SOC Analyst in training, and AWS Cloud Practitioner** with a strong foundation in **networking, cloud, and quality assurance**.  
-My hybrid background combines **Security Operations**, **Threat Detection**, **Cloud Fundamentals**, **QA Testing**, and **Automation**, giving me a wide-angle approach to security and system reliability.
+I'm a **SOC Analyst** with **1+ year of hands-on security operations experience**, backed by **4+ years as a QA Engineer** at enterprise companies including PNC Bank, Travelers, and UnitedHealth Group.
 
-🔐 Currently advancing through:  
-- **CompTIA Network+** – *studying* 
-- **CompTIA Security+** – *studying*
-- **Microsoft SC-900** – *studying*
-- **ISC2 (CC)** – *planned*  
-- **CompTIA CySA+** – *planned*  
+That combination isn't common — and it's my edge. I bring **structured, test-driven thinking** to every alert I triage, every log I analyze, and every incident I document. My QA background means I approach threat analysis the same way I approached defect detection: methodically, with a sharp instinct for finding what others miss.
 
-🌐 I also create cybersecurity articles & tutorials on **Medium**.
+```
+Current Focus:  SOC Operations · Threat Detection · Incident Response · SIEM Analysis
+Target Role:    Tier II SOC Analyst / Threat Analyst
+Location:       Philadelphia, PA  |  US Citizen
+```
 
 ---
 
-## 🎓 Certifications & In-Progress Badges
+## 🔐 Security Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/CCNA-Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/ISC2%20CC-Studying-6CAB45?style=for-the-badge&logo=ISC2&logoColor=white" />
-  <img src="https://img.shields.io/badge/Security%2B-Studying-E61F2D?style=for-the-badge&logo=comptia&logoColor=white" />
-  <img src="https://img.shields.io/badge/CySA%2B-Studying-326CE5?style=for-the-badge&logo=comptia&logoColor=white" />
-</p>
+**SIEM & Monitoring**
 
----
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-3C6EB4?style=flat-square&logo=wazuh&logoColor=white)
+![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=flat-square&logo=elastic&logoColor=white)
+![NTOPNG](https://img.shields.io/badge/NTOPNG-4A90D9?style=flat-square&logoColor=white)
 
-## 🛡️ Cybersecurity Skills
+**Threat Analysis & Response**
 
-#### 🔍 **SOC Analyst Skills**
-- SIEM Monitoring & Alert Triage  
-- Log Analysis (Linux, Sysmon, Windows Event Logs)  
-- MITRE ATT&CK Mapping  
-- Threat Hunting (Splunk, Wazuh, ELK)  
-- Incident Response Fundamentals  
-- Packet Analysis (Wireshark)  
-- Network Security + Firewalls  
-- Endpoint & Malware Investigation  
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-E20000?style=flat-square&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=flat-square&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-00AEEF?style=flat-square&logoColor=white)
+![OpenVAS](https://img.shields.io/badge/OpenVAS-6DB33F?style=flat-square&logoColor=white)
 
-#### ☁️ **Cloud & Networking**
-- AWS IAM, S3, EC2, Security Groups  
-- CCNA-level Networking  
-- TCP/IP, Subnetting, VLANs, Routing  
-- VPN & Zero Trust Concepts  
+**Cloud & Infrastructure**
 
----
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)
 
-## 🧪 Quality Assurance (QA) Skills  
-- Functional Testing  
-- Regression & UAT  
-- Test Case Development  
-- Bug Tracking (JIRA)  
-- API testing (Postman)  
-- Automation Fundamentals (Selenium/Java)
+**Frameworks & Standards**
 
-## 🧰 Tools & Technologies
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,git,github,docker,aws,bash,postman,selenium,mysql,vscode,eclipse,jenkins,java,windows,css,html,latex" />
-</p>
+![NIST](https://img.shields.io/badge/NIST_SP_800--53-003087?style=flat-square&logoColor=white)
+![ISO 27001](https://img.shields.io/badge/ISO_27001-0076A8?style=flat-square&logoColor=white)
+![NIST CSF](https://img.shields.io/badge/NIST_CSF-1A3A5C?style=flat-square&logoColor=white)
 
 ---
 
-## 📝 Latest from My Medium Blog
-👉 **[Analyzing FTP Log Files Using Splunk SIEM](https://medium.com/@hassen-hannachi/analyzing-ftp-log-files-using-splunk-siem-02cf7abda9cf)**
-👉 **[Analyzing SSH Log Files Using Splunk SIEM](https://medium.com/@hassen-hannachi/analyzing-ssh-log-files-using-splunk-siem-73d3e29db8d3)**
-👉 **[Analyzing HTTP Log Files Using Splunk SIEM](https://medium.com/@hassen-hannachi/analyzing-http-log-files-using-splunk-siem-aabe342e1614)**
+## 🎓 Certifications
+
+| Status | Certification |
+|--------|--------------|
+| ✅ Completed | AWS Cloud Practitioner |
+| ✅ Completed | Cisco CCNA |
+| ✅ Completed | Cisco CCENT |
+| ✅ Completed | ISC2 CC – Certified in Cybersecurity |
+| 📚 In Progress | CompTIA Security+ (SY0-701) |
+| 📚 In Progress | CompTIA Network+ (N10-009) |
+| 📚 In Progress | Microsoft SC-900 |
 
 ---
-<!--
-## 📫 Contact Me
 
-<p>
-  📧 **Email:** <a href="mailto:hannachihassen07@gmail.com">hannachihassen07@gmail.com</a>  
-  ✍️ **Medium Portfolio:** https://medium.com/@hassen-hannachi  
-</p>
+## 💼 Experience Snapshot
+
+```
+SOC Analyst                    Each1Teach1              Apr 2025 – Present
+  → SIEM triage (Wazuh + Splunk), incident response, MITRE ATT&CK mapping
+  → NIST SP 800-53 / ISO 27001 compliance, JIRA incident management
+
+Cybersecurity Support Tech     Each1Teach1              Mar 2024 – Apr 2025
+  → AWS (IAM, EC2, S3), Wazuh, NTOPNG across VM environments
+  → Incident logging, vulnerability remediation, security documentation
+
+QA Analyst                     Travelers                Nov 2021 – Aug 2023
+  → 200+ defects identified via JIRA, multi-tier enterprise testing
+  → SQL backend validation, security-aware QA, UAT
+
+QA Test Engineer               PNC Bank                 Aug 2019 – Oct 2021
+  → 40% increase in test coverage, performance & regression testing
+  → Security-aware QA, financial transaction validation
+
+Software Tester                UnitedHealth Group       Feb 2017 – Jul 2019
+  → Large-scale health records validation (HIPAA environment)
+  → Functional/regression testing, root cause analysis
+```
 
 ---
--->
-## ✨ Thanks for visiting!
-If you like my work, consider ⭐ starring my repos or following for more cybersecurity content.
 
-<!---   
-<h2>Tech stack</h2>
-  
-<p align="center">   
+## 🧪 SOC Skills in Practice
 
-![Windows](https://img.shields.io/badge/-Windows-05122A?style=plastic&logo=windows&logoColor=FFA518)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=plastic&logo=linux&logoColor=FFA518)&nbsp;
-![Windows](https://img.shields.io/badge/Windows%20terminal-05122A?style=plastic&logo=windows&logoColor=FFA518)&nbsp;
-![Powershell](https://img.shields.io/badge/Powershell-05122A?style=plastic&logo=powershell&logoColor=FFA518)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=plastic&logo=eclipse-ide&logoColor=2C2255)&nbsp;
-![IntelliJ_IDEA](https://img.shields.io/badge/IntelliJ_IDEA-05122A?style=plastic&logo=intellij-idea)&nbsp;
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-05112A?style=plastic&logo=visual%20studio)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=plastic&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![NetBeansIDE](https://img.shields.io/badge/apache%20netbeans-05112A?style=plastic&logo=apache%20netbeans%20IDE)&nbsp;
-![Atom](https://img.shields.io/badge/Atom-05122A?style=plastic&logo=Atom)&nbsp;
-![Notepad](https://img.shields.io/badge/Notepad++-05122A?style=plastic&logo=notepad%2B%2B)&nbsp;
-![sublime_text](https://img.shields.io/badge/sublime_text-05122A?style=plastic&logo=sublime-text)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=plastic&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=plastic&logo=github)&nbsp;
-![Jenkins](https://img.shields.io/badge/Jenkins-05122A?style=plastic&logo=jenkins)&nbsp;
-![Jira](https://img.shields.io/badge/Jira-05122A?style=plastic&logo=jira)&nbsp;
-![Java](https://img.shields.io/badge/Java-05122A?style=plastic&logo=java)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=plastic&logo=javascript)&nbsp;
-![jQuery](https://img.shields.io/badge/jQuery-05122A?style=plastic&logo=jquery&logoColor=00599C)&nbsp;
-![Selenium](https://img.shields.io/badge/-Selenium-05122A?style=plastic&logo=selenium&logoColor=092E20)&nbsp;
-![Maven](https://img.shields.io/badge/-Maven-05122A?style=plastic&logo=maven)
-![TestNG](https://img.shields.io/badge/-TestNG-05122A?style=testng&logo=testng)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=plastic&logo=docker&logoColor=092E20)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-05122A?style=plastic&logo=mysql)&nbsp;
-![Oracle](https://img.shields.io/badge/Oracle-05122A?style=plastic&logo=oracle)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/Postgresql-05122A?style=plastic&logo=postgresql)&nbsp;
-![Postman](https://img.shields.io/badge/Postman-05122A?style=plastic&logo=postman)&nbsp;
-![Apache Maven](https://img.shields.io/badge/Apache%20Maven-05122A?style=plastic&logo=Apache%20Maven)&nbsp;
-![SOAPUI](https://img.shields.io/badge/SoapUI-05122A?style=plastic&logo=SoapUI)&nbsp;
-![RestApi](https://img.shields.io/badge/RestApi-05122A?style=plastic&logo=RestApi)&nbsp;
-![JMeter](https://img.shields.io/badge/JMeter-05122A?style=plastic&logo=JMeter)&nbsp;
-![BlazeMeter](https://img.shields.io/badge/BlazeMeter-05122A?style=plastic&logo=BlazeMeter)&nbsp;
-![JSON](https://img.shields.io/badge/-JSON-05122A?style=plastic&logo=json&logoColor=092E20)&nbsp;
-![XML](https://img.shields.io/badge/-XML-05122A?style=plastic&logo=xml&logoColor=092E20)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=plastic&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=plastic&logo=CSS3&logoColor=1572B6)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=plastic&logo=adobe-photoshop)&nbsp;
-![LaTeX](https://img.shields.io/badge/latex-05122A?style=plastic&logo=latex)&nbsp;
-![LibreOffice](https://img.shields.io/badge/LibreOffice-05122A?style=plastic&logo=LibreOffice)&nbsp;
-![Microsoft_Office](https://img.shields.io/badge/Microsoft_Office-05122A?style=plastic&logo=microsoft-office)&nbsp;
-![Microsoft_Excel](https://img.shields.io/badge/Microsoft_Excel-05122A?style=plastic&logo=microsoft-excel)&nbsp;
-![Microsoft_PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-05122A?style=plastic&logo=microsoft-powerpoint)&nbsp;
-![Microsoft Visio ](https://img.shields.io/badge/Microsoft_Visio-05122A?style=plastic&logo=microsoft-visio)&nbsp;
-![Microsoft_Access](https://img.shields.io/badge/Microsoft_Access-05122A?style=plastic&logo=microsoft-access)&nbsp;
-![Firefox](https://img.shields.io/badge/Firefox_Browser-05122A?style=plastic&logo=Firefox-Browser)&nbsp;
-![Chrome](https://img.shields.io/badge/Google_Chrome-05122A?style=plastic&logo=Google-Chrome)&nbsp;
-![Microsoft_Edge](https://img.shields.io/badge/Microsoft_Edge-05122A?style=plastic&logo=Microsoft-edge)&nbsp;
-![Safari](https://img.shields.io/badge/Safari-05122A?style=plastic&logo=Safari)&nbsp;
-<!--![C](https://img.shields.io/badge/-C-05122A?style=plastic&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=plastic&logo=C%2B%2B&logoColor=00599C)&nbsp;	
-![Selenium Grid](https://img.shields.io/badge/-Selenium-Grid?style=plastic&logo=selenium&logoColor=092E20)&nbsp;
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=FFA518)&nbsp;-->
- </p>
-	
- <!--- 
-[![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com)
-[![git](https://badgen.net/badge/icon/git?icon=git&label)](https://git-scm.com)
-[![Eclipse](https://badgen.net/badge/icon/eclipse?icon=eclipse&label)](https://https://eclipse.org/)
-[![Maven](https://badgen.net/badge/icon/maven?icon=maven&label)](https://https://maven.apache.org/)
-[![Jira](https://badgen.net/badge/icon/jira?icon=jira&label)](https://https://jira.com/)
-[![Windows](https://badgen.net/badge/icon/windows?icon=windows&label)](https://microsoft.com/windows/)
-  -->
+<table>
+<tr>
+<td width="50%">
 
-## 📊 GitHub Analytics  
-  <p align="center">
-   <img src="https://komarev.com/ghpvc/?username=HannachiHassen&label=Profile+Views&color=blue&style=flat" />
-  </p>
+**Detection & Analysis**
+- SIEM alert triage & correlation
+- Log analysis (Sysmon, Windows Event, Linux)
+- MITRE ATT&CK classification
+- Network traffic analysis (Wireshark)
+- Vulnerability scanning (Nessus, OpenVAS)
 
-<summary><b>⚡ Recent GitHub Activity Graph</b></summary>
-  <br>
-	
-[![HannachiHassen's Activity Github Graph](https://github-readme-activity-graph.vercel.app/graph?username=HannachiHassen&theme=react-dark)](https://github.com/HannachiHassen/github-readme-activity-graph)
-	
-<summary><b>💻 GitHub Profile Stats</b></summary>  
-  <br/> 
- <p align="center"> 
- <a href="https://github.com/HannachiHassen">
-   <img alt="HannachiHassen's Github Stats" src="https://github-readme-stats.vercel.app/api?username=HannachiHassen&show_icons=true&count_private=true&theme=radical" height="192px" style="max-width: 100%; width="40%"/></a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HannachiHassen&langs_count=10&show_icons=true&locale=en&layout=compact&theme=radical" alt="HannachiHassen" height="192px style="max-width: 100%; width="40%"/>
- <br/>
- <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
- </p>
- 
- <summary><b>🔥 Streak Stats</b></summary>
-  
- <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HannachiHassen&theme=radical"  alt="HannachiHassen" /></p> 
-          
+</td>
+<td width="50%">
+
+**Response & Documentation**
+- Incident lifecycle management (JIRA)
+- Attack vector & entry point mapping
+- Security audit participation
+- NIST SP 800-53 / ISO 27001 enforcement
+- Evidence preservation (FTK, Autopsy)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📝 Featured Medium Articles
+
+> Hands-on SIEM labs and cybersecurity walkthroughs
+
+- 📡 [**Analyzing FTP Log Files Using Splunk SIEM**](https://medium.com/@hassen-hannachi/analyzing-ftp-log-files-using-splunk-siem-02cf7abda9cf)
+- 🔑 [**Analyzing SSH Log Files Using Splunk SIEM**](https://medium.com/@hassen-hannachi/analyzing-ssh-log-files-using-splunk-siem-73d3e29db8d3)
+- 🌐 [**Analyzing HTTP Log Files Using Splunk SIEM**](https://medium.com/@hassen-hannachi/analyzing-http-log-files-using-splunk-siem-aabe342e1614)
+
+---
+
+## 📂 Featured Repositories
+
 <a href="https://github.com/HannachiHassen/Splunk-Projects-Beginners">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HannachiHassen&repo=Splunk-Projects-Beginners" />
-</a> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HannachiHassen&repo=Splunk-Projects-Beginners&theme=dark" />
+</a>
 <a href="https://github.com/HannachiHassen/Security-Sys0-06-Labs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HannachiHassen&repo=Security-Sys0-06-Labs" />
-</a>   
- 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HannachiHassen&repo=Security-Sys0-06-Labs&theme=dark" />
+</a>
+
+<br/><br/>
+
 <a href="https://github.com/HannachiHassen/Framework_Project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HannachiHassen&repo=Framework_Project" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HannachiHassen&repo=Framework_Project&theme=dark" />
 </a>
 <a href="https://github.com/HannachiHassen/SQL_BasicTesting">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HannachiHassen&repo=SQL_BasicTesting" />
-</a> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HannachiHassen&repo=SQL_BasicTesting&theme=dark" />
+</a>
 
-<!-- [![Hassen's github trophy](https://github-profile-trophy.vercel.app/?username=HannachiHassen&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+---
 
+## 📊 GitHub Stats
 
+<div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=HannachiHassen&show_icons=true&count_private=true&theme=dark&hide_border=true" height="180px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=HannachiHassen&langs_count=8&layout=compact&theme=dark&hide_border=true" height="180px"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HannachiHassen&theme=dark&hide_border=true" />
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=HannachiHassen&label=Profile+Views&color=0E83CD&style=flat-square)
+
+</div>
+
+---
+
+## 🎯 Currently Working On
+
+- 🔬 **Expanding SOC labs** — building detection rules and hunting playbooks in Wazuh & Splunk
+- 📚 **Security+ & Network+** — targeting certification completion in 2025
+- ✍️ **Medium blog** — publishing hands-on SIEM walkthroughs and SOC methodology write-ups
+- 🧠 **CyberDefenders & TryHackMe** — consistent blue team practice
+
+---
+
+<div align="center">
+
+*Open to SOC Analyst · Tier II Analyst · Threat Analysis opportunities*
+
+**[📧 Email](mailto:hannachihassen07@gmail.com) · [💼 LinkedIn](https://www.linkedin.com/in/hassenhannachi/) · [✍️ Medium](https://hassen-hannachi.medium.com/)**
+
+</div>
