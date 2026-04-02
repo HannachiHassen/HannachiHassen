@@ -62,7 +62,21 @@ Target Role:    Tier II SOC Analyst / Threat Analyst
 ![NIST CSF](https://img.shields.io/badge/NIST_CSF-1A3A5C?style=flat-square&logoColor=white)
 
 ---
+# 💻 Tech Stack:
 
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-square&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat-square&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logoColor=white)  
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logoColor=white) 
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat-square&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logoColor=white) 
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logoColor=white) 
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logoColor=white) 
+
+# 📊 GitHub Stats:
 ## 🎓 Certifications
 
 | Status | Certification |
