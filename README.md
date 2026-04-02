@@ -54,6 +54,7 @@ Target Role:    Tier II SOC Analyst / Threat Analyst
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)
+![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat-square&logo=windows&logoColor=white)
 
 **Frameworks & Standards**
 
@@ -62,21 +63,37 @@ Target Role:    Tier II SOC Analyst / Threat Analyst
 ![NIST CSF](https://img.shields.io/badge/NIST_CSF-1A3A5C?style=flat-square&logoColor=white)
 
 ---
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-square&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat-square&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logoColor=white)  
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logoColor=white) 
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat-square&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logoColor=white) 
+**Version Control**
+
+![Git](https://img.shields.io/badge/GIT-%23F05033.svg?style=flat-square&logo=git&square&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?style=flat-square&logo=github&square&logoColor=white) 
+![GitHub Actions](https://img.shields.io/badge/GITHUB%20ACTIONS-%232671E5.svg?style=flat-square&logoColor=white) 
+
+**Web**
+
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&square&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-003087?style=flat-square&logo=css3&square&logoColor=white) 
+![JSON](https://img.shields.io/badge/-JSON-0076A8?style=flat-square&logo=json&square&logoColor=white)
+![XML](https://img.shields.io/badge/-XML-1A3A5C?style=flat-square&logo=xml&logoColor=white)
+
+**Database**
+
+![MySQL](https://img.shields.io/badge/MYSQL-4479A1.svg?style=flat-square&logo=myslq&square&logoColor=white) 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logoColor=white) 
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1A3A5C?style=flat-square&logoColor=white) 
 
-# 📊 GitHub Stats:
+**Others**
+
+![JIRA](https://img.shields.io/badge/JIRA-003087?style=flat-square&logo=jira&square&logoColor=white)
+![Jenkins](https://img.shields.io/badge/JENKINS-%23E34F26.svg?style=flat-square&logo=jenkins&square&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LATEX-6DB33F?style=flat-square&logo=latex&square&logoColor=white) 
+<!-- ![Java](https://img.shields.io/badge/JAVA-FCC624?style=flat-square&logo=java&square&logoColor=white) -->
+ 
+
+---
+
 ## 🎓 Certifications
 
 | Status | Certification |
@@ -179,7 +196,7 @@ Target Role:    Tier II SOC Analyst / Threat Analyst
 
 <div align="center">
 
-*Open to SOC Analyst · Tier II Analyst · Threat Analysis opportunities*
+*Open to SOC Analyst · Tier I Analyst · Threat Analysis opportunities*
 
 **[📧 Email](mailto:hannachihassen07@gmail.com) · [💼 LinkedIn](https://www.linkedin.com/in/hassenhannachi/) · [✍️ Medium](https://hassen-hannachi.medium.com/)**
 
