@@ -160,8 +160,8 @@ Target Role:    Tier I SOC Analyst / Threat Analyst
 <a href="https://github.com/HannachiHassen/Framework_Project">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HannachiHassen&repo=Framework_Project&theme=dark" />
 </a>
-<a href="https://github.com/HannachiHassen/SQL_BasicTesting">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HannachiHassen&repo=SQL_BasicTesting&theme=dark" />
+<a href="https://github.com/HannachiHassen/Network-Plus-N10-009-Study-Series">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HannachiHassen&repo=Network-Plus-N10-009-Study-Series&theme=dark" />
 </a>
 
 ---
