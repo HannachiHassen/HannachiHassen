@@ -26,7 +26,7 @@ That combination isn't common — and it's my edge. I bring **structured, test-d
 
 ```
 Current Focus:  SOC Operations · Threat Detection · Incident Response · SIEM Analysis
-Target Role:    Tier II SOC Analyst / Threat Analyst
+Target Role:    Tier I SOC Analyst / Threat Analyst
 ```
 
 ---
