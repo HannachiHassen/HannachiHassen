@@ -166,13 +166,21 @@ Target Role:    Tier I SOC Analyst / Threat Analyst
 
 ---
 
+## :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
-
+<!--
 <img src="https://github-readme-stats-gold-rho-69.vercel.app/api?username=HannachiHassen&show_icons=true&count_private=true&theme=dark&hide_border=true" height="180px"/>
 <img src="github-readme-stats-gold-rho-69.vercel.app/api/top-langs?username=HannachiHassen&langs_count=8&layout=compact&theme=dark&hide_border=true" height="180px"/>
-
+-->
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=HannachiHassen&theme=dark&hide_border=true" />
