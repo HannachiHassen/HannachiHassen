@@ -149,19 +149,19 @@ Target Role:    Tier I SOC Analyst / Threat Analyst
 ## 📂 Featured Repositories
 
 <a href="https://github.com/HannachiHassen/Splunk-Projects-Beginners">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HannachiHassen&repo=Splunk-Projects-Beginners&theme=dark" />
+  <img align="center" src="https://github-readme-stats-gold-rho-69.vercel.app/api/pin/?username=HannachiHassen&repo=Splunk-Projects-Beginners&theme=dark" />
 </a>
 <a href="https://github.com/HannachiHassen/Security-Sys0-06-Labs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HannachiHassen&repo=Security-Sys0-06-Labs&theme=dark" />
+  <img align="center" src="https://github-readme-stats-gold-rho-69.vercel.app/api/pin/?username=HannachiHassen&repo=Security-Sys0-06-Labs&theme=dark" />
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/HannachiHassen/Framework_Project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HannachiHassen&repo=Framework_Project&theme=dark" />
+  <img align="center" src="https://github-readme-stats-gold-rho-69.vercel.app/api/pin/?username=HannachiHassen&repo=Framework_Project&theme=dark" />
 </a>
 <a href="https://github.com/HannachiHassen/Network-Plus-N10-009-Study-Series">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HannachiHassen&repo=Network-Plus-N10-009-Study-Series&theme=dark" />
+  <img align="center" src="https://github-readme-stats-gold-rho-69.vercel.app/api/pin/?username=HannachiHassen&repo=Network-Plus-N10-009-Study-Series&theme=dark" />
 </a>
 
 ---
@@ -170,8 +170,8 @@ Target Role:    Tier I SOC Analyst / Threat Analyst
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=HannachiHassen&show_icons=true&count_private=true&theme=dark&hide_border=true" height="180px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=HannachiHassen&langs_count=8&layout=compact&theme=dark&hide_border=true" height="180px"/>
+<img src="https://github-readme-stats-gold-rho-69.vercel.app/api?username=HannachiHassen&show_icons=true&count_private=true&theme=dark&hide_border=true" height="180px"/>
+<img src="github-readme-stats-gold-rho-69.vercel.app/api/top-langs?username=HannachiHassen&langs_count=8&layout=compact&theme=dark&hide_border=true" height="180px"/>
 
 <br/>
 
