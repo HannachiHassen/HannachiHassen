@@ -66,22 +66,30 @@ Target Role:    Tier I SOC Analyst / Threat Analyst
 
 ### 💻 Languages and Tools
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="IntelliJ" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="VIM" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="PUTTY" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="XML" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xml/xml-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="XML" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="XML" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />]
-[<img align="left" alt="Confluence" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original-wordmark.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Jira" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Jenkins" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon//icons/jenkins/jenkins-original.svg" style="padding-right:10px;" />]
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="IntelliJ" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Eclipse" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" style="padding-right:10px;" />
+<img align="left" alt="VIM" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" style="padding-right:10px;" />
+<img align="left" alt="PUTTY" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Atom" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" style="padding-right:10px;" />
+<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+<img align="left" alt="XML" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xml/xml-original.svg" style="padding-right:10px;" />
+<img align="left" alt="JSON" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" style="padding-right:10px;" />
+<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
+<img align="left" alt="XML" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
+<img align="left" alt="Githubactions" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Confluence" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="Jira" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Jenkins" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" style="padding-right:10px"; />
+<img align="left" alt="latex" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" style="padding-right:10px"; />&nbsp;
+
+<!-- 
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="26" height="26"/>
+<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
+-->
 
 <!--
 ## 💻 Tech Stack:
@@ -112,6 +120,7 @@ Target Role:    Tier I SOC Analyst / Threat Analyst
 ![LaTeX](https://img.shields.io/badge/LATEX-6DB33F?style=flat-square&logo=latex&square&logoColor=white) 
 ![Java](https://img.shields.io/badge/JAVA-FCC624?style=flat-square&logo=java&square&logoColor=white) 
 -->
+
 ---
 
 ## 🎓 Certifications
@@ -160,9 +169,11 @@ Target Role:    Tier I SOC Analyst / Threat Analyst
 
 > Hands-on SIEM labs and cybersecurity walkthroughs
 
-- 📡 [**Analyzing FTP Log Files Using Splunk SIEM**](https://medium.com/@hassen-hannachi/analyzing-ftp-log-files-using-splunk-siem-02cf7abda9cf)
-- 🔑 [**Analyzing SSH Log Files Using Splunk SIEM**](https://medium.com/@hassen-hannachi/analyzing-ssh-log-files-using-splunk-siem-73d3e29db8d3)
-- 🌐 [**Analyzing HTTP Log Files Using Splunk SIEM**](https://medium.com/@hassen-hannachi/analyzing-http-log-files-using-splunk-siem-aabe342e1614)
+- 📡 [**Analyzing DNS Log Files Using Splunk SIEM**](https://medium.com/@hassen-hannachi/analyzing-dns-log-files-using-splunk-siem-f46263391d4a)
+- 🔑 [**Installing OpenVAS on Kali Linux**](https://medium.com/@hassen-hannachi/installing-openvas-on-kali-linux-a54baeaf806a)
+- 🌐 [**Wazuh : Introduction & Installation**](https://medium.com/@hassen-hannachi/wazuh-presentation-implementation-43f374c0320e)
+
+➡️ [more blog posts...](https://medium.com/@hassen-hannachi/)
 
 ---
 
