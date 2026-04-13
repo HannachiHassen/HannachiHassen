@@ -89,38 +89,9 @@ Target Role:    Tier I SOC Analyst / Threat Analyst
 <!-- 
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="26" height="26"/>
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
+
+## 💻 Tech Stack
 -->
-
-<!--
-## 💻 Tech Stack:
-
-**Version Control**
-
-![Git](https://img.shields.io/badge/GIT-%23F05033.svg?style=flat-square&logo=git&square&logoColor=white) 
-![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?style=flat-square&logo=github&square&logoColor=white) 
-![GitHub Actions](https://img.shields.io/badge/GITHUB%20ACTIONS-%232671E5.svg?style=flat-square&logoColor=white) 
-
-**Web**
-
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&square&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-003087?style=flat-square&logo=css3&square&logoColor=white) 
-![JSON](https://img.shields.io/badge/-JSON-0076A8?style=flat-square&logo=json&square&logoColor=white)
-![XML](https://img.shields.io/badge/-XML-1A3A5C?style=flat-square&logo=xml&logoColor=white)
-
-**Database**
-
-![MySQL](https://img.shields.io/badge/MYSQL-4479A1.svg?style=flat-square&logo=myslq&square&logoColor=white) 
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logoColor=white) 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1A3A5C?style=flat-square&logoColor=white) 
-
-**Others**
-
-![JIRA](https://img.shields.io/badge/JIRA-003087?style=flat-square&logo=jira&square&logoColor=white)
-![Jenkins](https://img.shields.io/badge/JENKINS-%23E34F26.svg?style=flat-square&logo=jenkins&square&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LATEX-6DB33F?style=flat-square&logo=latex&square&logoColor=white) 
-![Java](https://img.shields.io/badge/JAVA-FCC624?style=flat-square&logo=java&square&logoColor=white) 
--->
-
 ---
 
 ## 🎓 Certifications
