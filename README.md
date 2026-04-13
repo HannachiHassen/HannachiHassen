@@ -148,6 +148,10 @@ Target Role:    Tier I SOC Analyst / Threat Analyst
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Day 5-Network+ N10–009 Compare and Contrast Transmission Media and Transceivers](https://hassen-hannachi.medium.com/day-5-network-n10-009-compare-and-contrast-transmission-media-and-transceivers-67401540c90a?source=rss-bd4a1e5ed7c8------2)
+- [Day 4-Network+ N10–009 Common Networking Ports, Protocols, Services &amp; Traffic Types](https://hassen-hannachi.medium.com/day-4-network-n10-009-common-networking-ports-protocols-services-traffic-types-2c07f273b2c4?source=rss-bd4a1e5ed7c8------2)
+- [Day 3- Network+ N10–009 Cloud Concepts &amp; Connectivity Options](https://hassen-hannachi.medium.com/day-3-network-n10-009-cloud-concepts-connectivity-options-aa8785463e49?source=rss-bd4a1e5ed7c8------2)
+- [Day 2- Network+ N10–009 Networking Appliances, Applications, and Functions](https://hassen-hannachi.medium.com/day-2-network-n10-009-networking-appliances-applications-and-functions-30d353db61b1?source=rss-bd4a1e5ed7c8------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@hassen-hannachi/)
