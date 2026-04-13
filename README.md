@@ -144,6 +144,12 @@ Target Role:    Tier I SOC Analyst / Threat Analyst
 - 🔑 [**Installing OpenVAS on Kali Linux**](https://medium.com/@hassen-hannachi/installing-openvas-on-kali-linux-a54baeaf806a)
 - 🌐 [**Wazuh : Introduction & Installation**](https://medium.com/@hassen-hannachi/wazuh-presentation-implementation-43f374c0320e)
 
+---
+
+### :writing_hand: Blog Posts :
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ➡️ [more blog posts...](https://medium.com/@hassen-hannachi/)
 
 ---
