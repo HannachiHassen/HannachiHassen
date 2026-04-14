@@ -65,7 +65,7 @@ Target Role:   Blue Team / Tier I SOC Analyst / Threat Analyst
 ---
 
 ## 🧰 Tech and tools
-
+<div>
 <img alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img alt="IntelliJ" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" style="padding-right:10px;" />
 <img alt="Eclipse" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" style="padding-right:10px;" />
@@ -85,6 +85,7 @@ Target Role:   Blue Team / Tier I SOC Analyst / Threat Analyst
 <img alt="Jira" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" style="padding-right:10px;" />
 <img alt="Jenkins" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" style="padding-right:10px"; />
 <img alt="latex" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" style="padding-right:10px"; />&nbsp;
+</div>
 
 ---
 <!-- 
@@ -173,7 +174,6 @@ Target Role:   Blue Team / Tier I SOC Analyst / Threat Analyst
 </a>
 <a href="https://github.com/HannachiHassen/Network-Plus-N10-009-Study-Series">
   <img align="center" src="https://github-readme-stats-gold-rho-69.vercel.app/api/pin/?username=HannachiHassen&repo=Network-Plus-N10-009-Study-Series&theme=dark" />
-</a>
 
 ---
 
@@ -212,9 +212,9 @@ Target Role:   Blue Team / Tier I SOC Analyst / Threat Analyst
 <div align="center">
 
 *Open to SOC Analyst · Tier I Analyst · Threat Analysis opportunities*
-
+<!--
 **[📧 Email](mailto:hannachihassen07@gmail.com) · [💼 LinkedIn](https://www.linkedin.com/in/hassenhannachi/) · [✍️ Medium](https://hassen-hannachi.medium.com/)**
-
+-->
 <p align="center">
   <a href="mailto:hi@tduyng.com">
     <img alt="Email" title="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
