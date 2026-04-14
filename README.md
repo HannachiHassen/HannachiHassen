@@ -26,7 +26,7 @@ That combination isn't common — and it's my edge. I bring **structured, test-d
 
 ```
 Current Focus:  SOC Operations · Threat Detection · Incident Response · SIEM Analysis
-Target Role:    Tier I SOC Analyst / Threat Analyst
+Target Role:   Blue Team / Tier I SOC Analyst / Threat Analyst
 ```
 
 ---
@@ -64,36 +64,35 @@ Target Role:    Tier I SOC Analyst / Threat Analyst
 
 ---
 
-### 💻 Languages and Tools
+## 🧰 Tech and tools
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="IntelliJ" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Eclipse" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" style="padding-right:10px;" />
-<img align="left" alt="VIM" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" style="padding-right:10px;" />
-<img align="left" alt="PUTTY" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Atom" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="XML" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xml/xml-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JSON" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="XML" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
-<img align="left" alt="Githubactions" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Confluence" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original-wordmark.svg" style="padding-right:10px;" />
-<img align="left" alt="Jira" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Jenkins" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" style="padding-right:10px"; />
-<img align="left" alt="latex" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" style="padding-right:10px"; />&nbsp;
+<img alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img alt="IntelliJ" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" style="padding-right:10px;" />
+<img alt="Eclipse" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" style="padding-right:10px;" />
+<img alt="VIM" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" style="padding-right:10px;" />
+<img alt="PUTTY" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" style="padding-right:10px;" />
+<img alt="Atom" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" style="padding-right:10px;" />
+<img alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+<img alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+<img alt="XML" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xml/xml-original.svg" style="padding-right:10px;" />
+<img alt="JSON" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" style="padding-right:10px;" />
+<img alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
+<img alt="PostgreSQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />
+<img alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+<img alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
+<img alt="Githubactions" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" style="padding-right:10px;" />
+<img alt="Confluence" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original-wordmark.svg" style="padding-right:10px;" />
+<img alt="Jira" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" style="padding-right:10px;" />
+<img alt="Jenkins" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" style="padding-right:10px"; />
+<img alt="latex" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" style="padding-right:10px"; />&nbsp;
 
+---
 <!-- 
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="26" height="26"/>
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 
 ## 💻 Tech Stack
 -->
----
-
 ## 🎓 Certifications
 
 | Status | Certification |
@@ -146,7 +145,7 @@ Target Role:    Tier I SOC Analyst / Threat Analyst
 
 ---
 
-### :writing_hand: Blog Posts :
+### :writing_hand: Latest Medium Posts :
 <!-- BLOG-POST-LIST:START -->
 - [Day 5-Network+ N10–009 Compare and Contrast Transmission Media and Transceivers](https://hassen-hannachi.medium.com/day-5-network-n10-009-compare-and-contrast-transmission-media-and-transceivers-67401540c90a?source=rss-bd4a1e5ed7c8------2)
 - [Day 4-Network+ N10–009 Common Networking Ports, Protocols, Services &amp; Traffic Types](https://hassen-hannachi.medium.com/day-4-network-n10-009-common-networking-ports-protocols-services-traffic-types-2c07f273b2c4?source=rss-bd4a1e5ed7c8------2)
@@ -154,7 +153,7 @@ Target Role:    Tier I SOC Analyst / Threat Analyst
 - [Day 2- Network+ N10–009 Networking Appliances, Applications, and Functions](https://hassen-hannachi.medium.com/day-2-network-n10-009-networking-appliances-applications-and-functions-30d353db61b1?source=rss-bd4a1e5ed7c8------2)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://medium.com/@hassen-hannachi/)
+📖 [more blog posts...](https://medium.com/@hassen-hannachi/)
 
 ---
 
@@ -178,13 +177,11 @@ Target Role:    Tier I SOC Analyst / Threat Analyst
 
 ---
 
-## :zap: Recent Activity
+<!-- ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
-
----
 
 ## 📊 GitHub Stats
 
@@ -200,8 +197,6 @@ Target Role:    Tier I SOC Analyst / Threat Analyst
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=HannachiHassen&label=Profile+Views&color=0E83CD&style=flat-square)
-
-</div>
 
 ---
 
@@ -220,4 +215,15 @@ Target Role:    Tier I SOC Analyst / Threat Analyst
 
 **[📧 Email](mailto:hannachihassen07@gmail.com) · [💼 LinkedIn](https://www.linkedin.com/in/hassenhannachi/) · [✍️ Medium](https://hassen-hannachi.medium.com/)**
 
+<p align="center">
+  <a href="mailto:hi@tduyng.com">
+    <img alt="Email" title="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/hassenhannachi/">
+    <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/Linkedin-21759B?style=for-the-badge&logo=rss&logoColor=white"/>
+  </a>
+  <a href="https://medium.com/@hassen-hannachi">
+    <img alt="Medium" title="Medium" src="https://img.shields.io/badge/Medium-464647?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
+</p>
 </div>
