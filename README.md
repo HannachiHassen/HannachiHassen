@@ -24,10 +24,10 @@ I'm a **SOC Analyst** with **1+ year of hands-on security operations experience*
 
 That combination isn't common — and it's my edge. I bring **structured, test-driven thinking** to every alert I triage, every log I analyze, and every incident I document. My QA background means I approach threat analysis the same way I approached defect detection: methodically, with a sharp instinct for finding what others miss.
 
-```
-Current Focus:  SOC Operations · Threat Detection · Incident Response · SIEM Analysis
-Target Role:   Blue Team / Tier I SOC Analyst / Threat Analyst
-```
+
+> Current Focus:  SOC Operations · Threat Detection · Incident Response · SIEM Analysis
+
+> Target Role:   Blue Team / Tier I SOC Analyst / Threat Analyst
 
 ---
 
@@ -50,11 +50,12 @@ Target Role:   Blue Team / Tier I SOC Analyst / Threat Analyst
 
 **Cloud & Infrastructure**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+[![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#)
+[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)
-![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat-square&logo=windows&logoColor=white)
+
 
 **Frameworks & Standards**
 
@@ -174,10 +175,11 @@ Target Role:   Blue Team / Tier I SOC Analyst / Threat Analyst
 </a>
 <a href="https://github.com/HannachiHassen/Network-Plus-N10-009-Study-Series">
   <img align="center" src="https://github-readme-stats-gold-rho-69.vercel.app/api/pin/?username=HannachiHassen&repo=Network-Plus-N10-009-Study-Series&theme=dark" />
+</a>
 
 ---
 
-<!-- ## :zap: Recent Activity
+## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 
@@ -197,7 +199,8 @@ Target Role:   Blue Team / Tier I SOC Analyst / Threat Analyst
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=HannachiHassen&label=Profile+Views&color=0E83CD&style=flat-square)
-
+</div>
+  
 ---
 
 ## 🎯 Currently Working On
