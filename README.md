@@ -33,7 +33,6 @@ That combination isn't common — and it's my edge. I bring **structured, test-d
 
 ## 🔐 Security Stack
 
-<markdown-accessiblity-table><table><tbody><tr><td valign="top" width="33%">
 <table><tbody><tr><td valign="top" width="25%">
 <div class="markdown-heading" dir="auto"><h3 class="heading-element" dir="auto">SIEM & Monitoring</h3><a id="user-content-siem" class="anchor" aria-label="Permalink: SIEM" href="#siem"></a></div>
 <div align="center" dir="auto"> 
@@ -72,7 +71,7 @@ That combination isn't common — and it's my edge. I bring **structured, test-d
 ![ISO 27001](https://img.shields.io/badge/ISO_27001-0076A8?style=flat-square&logoColor=white)
 ![NIST CSF](https://img.shields.io/badge/NIST_CSF-1A3A5C?style=flat-square&logoColor=white)
 </div>
-</td></tr></tbody></table></markdown-accessiblity-table> 
+</td></tr></tbody></table>
 
 ---
 
@@ -109,14 +108,11 @@ That combination isn't common — and it's my edge. I bring **structured, test-d
 ## 🎓 Certifications
 Credly account: <a href="https://www.credly.com/users/hassen-hannachi/badges" rel="nofollow">Credly</a>
 
-| Status | Certification |
+| ✅ Completed | 📚 In Progress |
 |--------|--------------|
-| ✅ Completed | AWS Cloud Practitioner |
-| ✅ Completed | Cisco CCNA |
-| ✅ Completed | Cisco CCENT |
-| 📚 In Progress | CompTIA Security+ (SY0-701) |
-| 📚 In Progress | CompTIA Network+ (N10-009) |
-| 📚 In Progress | Microsoft SC-900 |
+| AWS Cloud Practitioner | CompTIA Network+ (N10-009) |
+| Cisco CCNA | CompTIA Security+ (SY0-701) |
+| Cisco CCENT | Microsoft SC-900 |
 
 ---
 
