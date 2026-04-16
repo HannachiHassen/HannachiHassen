@@ -33,35 +33,46 @@ That combination isn't common — and it's my edge. I bring **structured, test-d
 
 ## 🔐 Security Stack
 
-**SIEM & Monitoring**
+<markdown-accessiblity-table><table><tbody><tr><td valign="top" width="33%">
+<table><tbody><tr><td valign="top" width="25%">
+<div class="markdown-heading" dir="auto"><h3 class="heading-element" dir="auto">SIEM & Monitoring</h3><a id="user-content-siem" class="anchor" aria-label="Permalink: SIEM" href="#siem"></a></div>
+<div align="center" dir="auto"> 
 
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
 ![Wazuh](https://img.shields.io/badge/Wazuh-3C6EB4?style=flat-square&logo=wazuh&logoColor=white)
 ![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=flat-square&logo=elastic&logoColor=white)
 ![NTOPNG](https://img.shields.io/badge/NTOPNG-4A90D9?style=flat-square&logoColor=white)
+</div>
 
-**Threat Analysis & Response**
+</td><td valign="top" width="25%">
+<div class="markdown-heading" dir="auto"><h3 class="heading-element" dir="auto">Threat Analysis & Response</h3><a id="user-content-threat" class="anchor" aria-label="Permalink: Threat" href="#threat"></a></div>
+<div align="center" dir="auto"> 
 
 ![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-E20000?style=flat-square&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=flat-square&logoColor=white)
 ![Nessus](https://img.shields.io/badge/Nessus-00AEEF?style=flat-square&logoColor=white)
 ![OpenVAS](https://img.shields.io/badge/OpenVAS-6DB33F?style=flat-square&logoColor=white)
+</div>
 
-**Cloud & Infrastructure**
+</td><td valign="top" width="25%">
+<div class="markdown-heading" dir="auto"><h3 class="heading-element" dir="auto">Cloud & Infrastructure</h3><a id="user-content-cloud" class="anchor" aria-label="Permalink: Cloud" href="#cloud"></a></div>
 
 [![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#)
 [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)
+</div>
 
-
-**Frameworks & Standards**
+</td><td valign="top" width="25%">
+<div class="markdown-heading" dir="auto"><h3 class="heading-element" dir="auto">Frameworks & Standards</h3><a id="user-content-framework" class="anchor" aria-label="Permalink: Frameworks" href="#framework"></a></div>
 
 ![NIST](https://img.shields.io/badge/NIST_SP_800--53-003087?style=flat-square&logoColor=white)
 ![ISO 27001](https://img.shields.io/badge/ISO_27001-0076A8?style=flat-square&logoColor=white)
 ![NIST CSF](https://img.shields.io/badge/NIST_CSF-1A3A5C?style=flat-square&logoColor=white)
+</div>
+</td></tr></tbody></table></markdown-accessiblity-table> 
 
 ---
 
@@ -96,6 +107,7 @@ That combination isn't common — and it's my edge. I bring **structured, test-d
 ## 💻 Tech Stack
 -->
 ## 🎓 Certifications
+Credly account: <a href="https://www.credly.com/users/hassen-hannachi/badges" rel="nofollow">Credly</a>
 
 | Status | Certification |
 |--------|--------------|
