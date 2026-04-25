@@ -157,10 +157,10 @@ Credly account: <a href="https://www.credly.com/users/hassen-hannachi/badges" re
 
 ### :writing_hand: Latest Medium Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Analyzing SMTP Logs Using Splunk](https://hassen-hannachi.medium.com/analyzing-smtp-logs-using-splunk-eb7d56c5f6fb?source=rss-bd4a1e5ed7c8------2)
 - [Essential Sandbox for SOC Analysts](https://hassen-hannachi.medium.com/essential-sandbox-for-soc-analysts-4b96f4c5c7de?source=rss-bd4a1e5ed7c8------2)
 - [Day 5-Network+ N10–009 Compare and Contrast Transmission Media and Transceivers](https://hassen-hannachi.medium.com/day-5-network-n10-009-compare-and-contrast-transmission-media-and-transceivers-67401540c90a?source=rss-bd4a1e5ed7c8------2)
 - [Day 4-Network+ N10–009 Common Networking Ports, Protocols, Services &amp; Traffic Types](https://hassen-hannachi.medium.com/day-4-network-n10-009-common-networking-ports-protocols-services-traffic-types-2c07f273b2c4?source=rss-bd4a1e5ed7c8------2)
-- [Day 3- Network+ N10–009 Cloud Concepts &amp; Connectivity Options](https://hassen-hannachi.medium.com/day-3-network-n10-009-cloud-concepts-connectivity-options-aa8785463e49?source=rss-bd4a1e5ed7c8------2)
 <!-- BLOG-POST-LIST:END -->
 
 📖 [more blog posts...](https://medium.com/@hassen-hannachi/)
